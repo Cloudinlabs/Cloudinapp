@@ -50,15 +50,19 @@
 .bgDrkGrey {
     background: #333333 !important;
 }
+
 .bgOrange {
     background: #E07400 !important;
 }
+
 .bgSharPink {
     background: #F30B52 !important;
 }
+
 .bgRed {
     background: #FF3900 !important;
 }
+
 .section_sub_title h6 {
     color: #01A5A7 !important;
 }
@@ -95,5 +99,70 @@ element.style {
 .techno_menu ul .sub-menu li a {
     color: #000 !important;
 }
+
 .slider_text_inner h1 {
-    font-size: 38px!important;}
+    font-size: 38px!important;
+}
+.minheight380px{
+    min-height: 380px !important;
+}
+.techno_flipbox_back.minheight380px p{
+color: #fff !important;
+}
+.clr_both{
+    clear:both;
+    display:block;
+}
+.vertical_top_it{
+    position: relative;
+    top: -25px;
+}
+
+.vertical_top_mobilApp{
+    position: relative;
+    top: -75px;
+}
+.vertical_top_webApp{
+    position: relative;
+    top: -75px;
+}
+.pos_relative{
+    position: relative;   
+}
+.pos_absolute{
+    position: absolute;     
+}
+.rightAlign{
+    right:0;
+}
+.leftAlign{
+    left:0;
+}
+.ai_box_minheight{
+    min-height:505px!important;
+
+}
+.blockChain_Box_minHeight{
+    min-height:405px!important;
+}
+.blockChain_Box_minHeight2{
+    min-height:305px!important;
+}
+.aws_Box_minHeight{
+    min-height:385px!important;
+}
+.react_Box_minHeight{
+    min-height:385px!important;
+}
+.itCons_Box_minHeight{
+    min-height:335px!important;
+}
+.mobiApp_Box_minHeight{
+    min-height:335px!important;
+}
+.webApp_Box_minHeight{
+    min-height:335px!important;
+}
+.uxui_Box_minHeight{
+    min-height:335px!important;
+}
