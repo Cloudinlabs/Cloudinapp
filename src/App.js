@@ -21,6 +21,7 @@ import MobileApp from './components/pages/services/MobileApp';
 import ReactDev from './components/pages/services/React';
 import Services from './components/pages/services/Services';
 import UxUi from './components/pages/services/UxUi';
+import VirtualAssistant from './components/pages/services/VirtualAssistant';
 import WebDevelopment from './components/pages/services/WebDevelopment';
 import Layout from './components/plugins/Layout';
 
@@ -80,6 +81,9 @@ function App() {
         </Route>
         <Route path="/uiux" exact>
           <UxUi />
+        </Route>
+        <Route path="/virtualAssist" exact>
+          <VirtualAssistant />
         </Route>
         <Route path="/tc" exact>
           <TnC />

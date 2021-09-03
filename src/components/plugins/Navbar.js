@@ -109,11 +109,11 @@ const Navbar = () => {
                             Investor
                           </NavLink>
                         </li>
-                        <li>
+                        {/* <li>
                           <NavLink activeClassName="active" to="/portfolio">
                             Portfolio
                           </NavLink>
-                        </li>
+                        </li> */}
                       </ul>
                     </li>
                     <li>
@@ -169,6 +169,11 @@ const Navbar = () => {
                         <li>
                           <NavLink activeClassName="active" to="/uiux">
                             UI/UX Design
+                          </NavLink>
+                        </li>
+                        <li>
+                          <NavLink activeClassName="active" to="/virtualAssist">
+                            Virtual Assistant
                           </NavLink>
                         </li>
                       </ul>
