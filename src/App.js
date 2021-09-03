@@ -42,7 +42,7 @@ function App() {
         <Route path="/ourteam" exact>
           <OurTeam />
         </Route>
-        <Route path="#" exact>
+        <Route path="/investor" exact>
           <Investor />
         </Route>
         <Route path="/portfolio" exact>
