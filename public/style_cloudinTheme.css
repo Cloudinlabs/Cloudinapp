@@ -166,3 +166,31 @@ color: #fff !important;
 .uxui_Box_minHeight{
     min-height:335px!important;
 }
+@media only screen and (max-width: 1024px) {
+    .no-js .owl-carousel, .owl-carousel.owl-loaded, .banner_area {
+        display: block!important;
+        clear: both;
+    }
+    .breatcome_area{
+        display: none !important;
+    }
+    .mean-container .mean-bar::before {
+        color: #fff;
+        content: url('assets/images/logo2x.png');         
+        font-size: 22px;
+        font-weight: 800;
+        left: 10px;
+        position: absolute;
+        top: 0px;
+        height:60%;
+    }
+    .mean-container .mean-bar {
+        background: #00247e !important;
+        float: left;
+        min-height: 60px;
+        padding: 4px 0 0;
+        position: relative;
+        width: 100%;
+        z-index: 999999;
+    }
+  }
