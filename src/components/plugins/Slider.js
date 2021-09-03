@@ -908,7 +908,7 @@ const Slider = () => {
                       className="video-vemo-icon venobox vbox-item"
                       data-vbtype="youtube"
                       data-autoplay="true"
-                      href="https://youtu.be/BS4TUd7FJSg"
+                      href="#"
                     >
                       <i className="fa fa-play"></i>
                     </a>
