@@ -331,11 +331,9 @@ const Slider = () => {
                     </div>
                   </div>
                   <div className="singel-about-content">
-                    <h5>Warranty Management</h5>
-                    <p>
-                      Morem Ipsum is simply dummy text of the printing and
-                      pepesetting found.
-                    </p>
+                    <h5>IT Consultant</h5>
+                    <p>Enhance the right technology consulting solutions 
+                      Suitable for your key business domains.</p>
                   </div>
                 </div>
                 <div className="singel_about_left_inner">
@@ -345,11 +343,9 @@ const Slider = () => {
                     </div>
                   </div>
                   <div className="singel-about-content">
-                    <h5>Quality Control System</h5>
-                    <p>
-                      Morem Ipsum is simply dummy text of the printing and
-                      pepesetting found.
-                    </p>
+                    <h5>Trending Technologies</h5>
+                    <p>Cloudin is committed to discovering and developing new technologies and 
+                      Compute forms to unleash the exponential power of products.</p>
                   </div>
                 </div>
               </div>
