@@ -25,9 +25,9 @@ const Navbar = () => {
                     <ul>
                       <li>
                         <NavLink activeClassName="active" to="/virtualAssist">
-                          <i className="fa fa-life-ring" aria-hidden="true"></i>Do
-                          you need an awesome virtual assistant? to know all the
-                          best tools to get things done quickly.
+                          <i className="fa fa-life-ring" aria-hidden="true"></i>
+                          Do you need an awesome virtual assistant? to know all
+                          the best tools to get things done quickly.
                         </NavLink>
                       </li>
                     </ul>
@@ -116,7 +116,7 @@ const Navbar = () => {
                       </ul>
                     </li>
                     <li>
-                      <NavLink activeClassName="active" to="/services">
+                      <NavLink activeClassName="active" to="/ai">
                         Services
                       </NavLink>
                       <ul className="sub-menu">
@@ -178,7 +178,9 @@ const Navbar = () => {
                       </ul>
                     </li>
                     <li>
-                      <a href="#solution.html">Products</a>
+                      <NavLink activeClassName="active" to="/inventory">
+                        Products
+                      </NavLink>
                       <ul className="sub-menu">
                         <li>
                           <NavLink activeClassName="active" to="/inventory">
@@ -203,7 +205,9 @@ const Navbar = () => {
                       </ul>
                     </li>
                     <li>
-                      <a href="#elements.html">Policies</a>
+                      <NavLink activeClassName="active" to="/privacy">
+                        Policies
+                      </NavLink>
                       <ul className="sub-menu">
                         <li>
                           <NavLink activeClassName="active" to="/privacy">
@@ -234,9 +238,7 @@ const Navbar = () => {
                     </li>
                   </ul>
                   <div className="donate-btn-header">
-                    <a className="dtbtn" href="#">
-                      Get A Quote
-                    </a>
+                    <a className="dtbtn">Get A Quote</a>
                   </div>
                 </nav>
               </div>
@@ -248,10 +250,12 @@ const Navbar = () => {
             <nav className="techno_menu">
               <ul className="nav_scroll">
                 <li>
-                  <NavLink to="/">Home</NavLink>
+                  <NavLink to="/">Home Mobile</NavLink>
                 </li>
                 <li>
-                  <NavLink to="/aboutus">Company</NavLink>
+                  <NavLink activeClassName="active" to="/aboutus">
+                    Company
+                  </NavLink>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/aboutus">
@@ -338,7 +342,9 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li>
-                  <a>Products</a>
+                  <NavLink activeClassName="active" to="/inventory">
+                    Products
+                  </NavLink>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/inventory">
@@ -363,7 +369,9 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li>
-                  <a>Policies</a>
+                  <NavLink activeClassName="active" to="/services">
+                    Policies
+                  </NavLink>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/privacy">
@@ -389,7 +397,7 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                  <NavLink activeClassName="active" to="/ai">
+                  <NavLink activeClassName="active" to="/home">
                     Contact us
                   </NavLink>
                 </li>
