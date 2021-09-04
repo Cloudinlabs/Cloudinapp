@@ -24,17 +24,11 @@ const Navbar = () => {
                   <div className="header_top_menu_address_inner">
                     <ul>
                       <li>
-                        <a href="#">
-                          <i class="fa fa-life-ring" aria-hidden="true"></i>Do
-                          you need an awesome virtual assistant?
-                        </a>
-                      </li>
-
-                      <li>
-                        <a href="#">
-                          to know all the best tools to get things done quickly.
-                        </a>
-                      </li>
+                      <NavLink activeClassName="active" to="/virtualAssist">
+                      <i class="fa fa-life-ring" aria-hidden="true"></i>Do
+                          you need an awesome virtual assistant? to know all the best tools to get things done quickly.
+                          </NavLink>                         
+                      </li>  
                     </ul>
                   </div>
                 </div>
@@ -186,22 +180,22 @@ const Navbar = () => {
                       <a href="#solution.html">Products</a>
                       <ul className="sub-menu">
                         <li>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/inventory">
                             Inventory
                           </NavLink>
                         </li>
                         <li>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/mrBusiness">
                             Mr.Business
                           </NavLink>
                         </li>
                         <li>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/finjo">
                             Finjo
                           </NavLink>
                         </li>
                         <li>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/eCamp">
                             E-Camp
                           </NavLink>
                         </li>
