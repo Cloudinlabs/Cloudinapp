@@ -24,11 +24,12 @@ const Navbar = () => {
                   <div className="header_top_menu_address_inner">
                     <ul>
                       <li>
-                      <NavLink activeClassName="active" to="/virtualAssist">
-                      <i class="fa fa-life-ring" aria-hidden="true"></i>Do
-                          you need an awesome virtual assistant? to know all the best tools to get things done quickly.
-                          </NavLink>                         
-                      </li>  
+                        <NavLink activeClassName="active" to="/virtualAssist">
+                          <i class="fa fa-life-ring" aria-hidden="true"></i>Do
+                          you need an awesome virtual assistant? to know all the
+                          best tools to get things done quickly.
+                        </NavLink>
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -227,7 +228,7 @@ const Navbar = () => {
                       </ul>
                     </li>
                     <li>
-                      <NavLink activeClassName="active" to="/ai">
+                      <NavLink activeClassName="active" to="/home">
                         Contact us
                       </NavLink>
                     </li>
@@ -247,7 +248,7 @@ const Navbar = () => {
             <nav className="techno_menu">
               <ul className="nav_scroll">
                 <li>
-                  <NavLink to="/">Home</NavLink>
+                  <NavLink  to="/">Home mobile</NavLink>
                 </li>
                 <li>
                   <NavLink to="/aboutus">Company</NavLink>
@@ -337,32 +338,32 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li>
-                  <a href="#solution.html">Products</a>
+                  <a href="javascript:void(0)">Products</a>
                   <ul className="sub-menu">
                     <li>
-                      <NavLink activeClassName="active" to="/ai">
+                      <NavLink activeClassName="active" to="/inventory">
                         Inventory
                       </NavLink>
                     </li>
                     <li>
-                      <NavLink activeClassName="active" to="/ai">
+                      <NavLink activeClassName="active" to="/mrBusiness">
                         Mr.Business
                       </NavLink>
                     </li>
                     <li>
-                      <NavLink activeClassName="active" to="/ai">
+                      <NavLink activeClassName="active" to="/finjo">
                         Finjo
                       </NavLink>
                     </li>
                     <li>
-                      <NavLink activeClassName="active" to="/ai">
+                      <NavLink activeClassName="active" to="/eCamp">
                         E-Camp
                       </NavLink>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a href="#elements.html">Policies</a>
+                  <a href="javascript:void(0)">Policies</a>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/privacy">
@@ -386,6 +387,7 @@ const Navbar = () => {
                     </li>
                   </ul>
                 </li>
+
                 <li>
                   <NavLink activeClassName="active" to="/ai">
                     Contact us

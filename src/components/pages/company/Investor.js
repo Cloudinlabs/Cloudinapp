@@ -10,7 +10,7 @@ const Investor = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>NVR Capital & Ventures</h2>
+                  <h2>Investor</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -19,7 +19,7 @@ const Investor = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span>Info Box Element</span>
+                      <span>Investor</span>
                     </li>
                   </ul>
                 </div>
