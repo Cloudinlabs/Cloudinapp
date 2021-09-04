@@ -78,7 +78,7 @@ const MrBusiness = () => {
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -108,7 +108,7 @@ const MrBusiness = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -138,7 +138,7 @@ const MrBusiness = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -168,7 +168,7 @@ const MrBusiness = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -198,7 +198,7 @@ const MrBusiness = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -228,7 +228,7 @@ const MrBusiness = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="mrBusiness_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >

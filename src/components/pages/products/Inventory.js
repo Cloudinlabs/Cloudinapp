@@ -136,7 +136,7 @@ const Inventory = () => {
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="inventory_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -165,7 +165,7 @@ const Inventory = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="inventory_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -197,7 +197,7 @@ const Inventory = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="inventory_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -229,7 +229,7 @@ const Inventory = () => {
           <div className="row justify-content-md-center">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="inventory_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -258,7 +258,7 @@ const Inventory = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="inventory_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >

@@ -378,7 +378,7 @@ const AboutUs = () => {
           </div>
           <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-share-square-o"></i>
                 </div>
@@ -396,7 +396,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-id-badge"></i>
                 </div>
@@ -415,7 +415,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-transgender-alt"></i>
                 </div>
@@ -434,7 +434,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-cogs"></i>
                 </div>
@@ -452,7 +452,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-transgender-alt"></i>
                 </div>
@@ -470,7 +470,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-cogs"></i>
                 </div>
@@ -488,8 +488,10 @@ const AboutUs = () => {
                 </div>
               </div>
             </div>
+          </div>
+          <div className="row justify-content-md-center">
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-cogs"></i>
                 </div>
@@ -529,7 +531,7 @@ const AboutUs = () => {
           </div>
           <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-share-square-o"></i>
                 </div>
@@ -547,7 +549,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-id-badge"></i>
                 </div>
@@ -565,7 +567,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-transgender-alt"></i>
                 </div>
@@ -583,7 +585,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-cogs"></i>
                 </div>
@@ -601,7 +603,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-transgender-alt"></i>
                 </div>
@@ -618,7 +620,7 @@ const AboutUs = () => {
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
-              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30">
+              <div className="service_style_seven pt-3 pb-3 pl-4 pr-3 mb-30 about_box_minheight2">
                 <div className="service_style_seven_icon mr-3">
                   <i className="fa fa-cogs"></i>
                 </div>
@@ -638,8 +640,7 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-
-      </Fragment>
+    </Fragment>
   );
 };
 export default AboutUs;

@@ -79,7 +79,7 @@ const ECamp = () => {
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -109,7 +109,7 @@ const ECamp = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -139,7 +139,7 @@ const ECamp = () => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -170,7 +170,7 @@ const ECamp = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -202,7 +202,7 @@ const ECamp = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -233,7 +233,7 @@ const ECamp = () => {
 
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div
-                className="feature_style_eight mb-30 wow flipInY"
+                className="eCamp_Box_minHeight feature_style_eight mb-30 wow flipInY"
                 data-wow-delay="0ms"
                 data-wow-duration="1500ms"
               >
@@ -266,7 +266,7 @@ const ECamp = () => {
         </div>
       </div>
 
-      <div class="service_area style2 pb-70 invent">
+      <div class="service_area style2 pt-5 pb-70 invent">
         <div class="container">
           <div class="row">
             <div class="col-lg-6"></div>

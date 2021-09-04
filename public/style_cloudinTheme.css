@@ -148,6 +148,12 @@ element.style {
     left: 0;
 }
 
+.about_box_minheight {
+    min-height: 185px!important;
+}
+.about_box_minheight2 {
+    min-height: 165px!important;
+}
 .ai_box_minheight {
     min-height: 505px!important;
 }
@@ -183,7 +189,15 @@ element.style {
 .uxui_Box_minHeight {
     min-height: 335px!important;
 }
-
+.inventory_Box_minHeight {
+    min-height: 450px!important;
+}
+.mrBusiness_Box_minHeight {
+    min-height: 450px!important;
+}
+.eCamp_Box_minHeight {
+    min-height: 490px!important;
+}
 .invent .single_service_inner::before {
     height: 60px;
 }
