@@ -248,7 +248,7 @@ const Navbar = () => {
             <nav className="techno_menu">
               <ul className="nav_scroll">
                 <li>
-                  <NavLink  to="/">Home mobile</NavLink>
+                  <NavLink to="/">Home mobile</NavLink>
                 </li>
                 <li>
                   <NavLink to="/aboutus">Company</NavLink>
@@ -338,7 +338,7 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li>
-                  <a href="javascript:void(0)">Products</a>
+                  <a>Products</a>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/inventory">
@@ -363,7 +363,7 @@ const Navbar = () => {
                   </ul>
                 </li>
                 <li>
-                  <a href="javascript:void(0)">Policies</a>
+                  <a>Policies</a>
                   <ul className="sub-menu">
                     <li>
                       <NavLink activeClassName="active" to="/privacy">
