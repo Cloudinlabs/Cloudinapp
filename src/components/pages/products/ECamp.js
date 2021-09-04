@@ -266,108 +266,108 @@ const ECamp = () => {
         </div>
       </div>
 
-      <div class="service_area style2 pt-5 pb-70 invent">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6"></div>
-            <div class="col-lg-6">
-              <div class="section_title text_left mb-55">
-                <div class="section_main_title">
+      <div className="service_area style2 pt-5 pb-70 invent">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6"></div>
+            <div className="col-lg-6">
+              <div className="section_title text_left mb-55">
+                <div className="section_main_title">
                   <h1>
                     {' '}
                     E-camp benefits brings creative skills and ideas to the
                     table
                   </h1>
                 </div>
-                <div class="em_bar">
-                  <div class="em_bar_bg"></div>
+                <div className="em_bar">
+                  <div className="em_bar_bg"></div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="service_single_thumb left">
-                <div class="single_service_inner_thumb">
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="service_single_thumb left">
+                <div className="single_service_inner_thumb">
                   <img src="assets/images/service1.png" alt="" />
                 </div>
-                <div class="single_service_brg">
-                  <div class="single_service_brg_thumb rotateme">
+                <div className="single_service_brg">
+                  <div className="single_service_brg_thumb rotateme">
                     <img src="assets/images/service-rot.png" alt="" />
                   </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-dribbble"></i>
+            <div className="col-lg-6 col-sm-6">
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-dribbble"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Integrated Interface for all Users</h4>
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-phone"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-phone"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Paperless & Environment Friendly</h4>
                   </div>
                 </div>
               </div>
 
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-desktop"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-desktop"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Simplified Fees and Finances</h4>
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-dashcube"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-dashcube"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Day-to-day Attendance Tracker</h4>
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-forward"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-forward"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Efficient Filters & Suggestions</h4>
                   </div>
                 </div>
               </div>
 
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-forward"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-forward"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Interactive Dashboards at a Glance</h4>
                   </div>
                 </div>
               </div>
 
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-forward"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-forward"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4> Informative Report Generation</h4>
                   </div>
                 </div>

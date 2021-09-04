@@ -218,9 +218,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/1.png" alt="" />
                         </div>
                       </div>
@@ -234,9 +234,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/2.png" alt="" />
                         </div>
                       </div>
@@ -248,9 +248,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/3.png" alt="" />
                         </div>
                       </div>
@@ -262,9 +262,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/4.png" alt="" />
                         </div>
                       </div>
@@ -276,9 +276,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/5.png" alt="" />
                         </div>
                       </div>
@@ -289,9 +289,9 @@ const Investor = () => {
               <div className="slider_area d-flex align-items-center" id="home">
                 <div className="container">
                   <div className="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                      <div class="single_brand mb-30">
-                        <div class="single_brand_thumb">
+                    <div className="col-lg-3 col-md-4 col-sm-6">
+                      <div className="single_brand mb-30">
+                        <div className="single_brand_thumb">
                           <img src="assets/images/brand/1.png" alt="" />
                         </div>
                       </div>

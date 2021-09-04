@@ -25,7 +25,7 @@ const Navbar = () => {
                     <ul>
                       <li>
                         <NavLink activeClassName="active" to="/virtualAssist">
-                          <i class="fa fa-life-ring" aria-hidden="true"></i>Do
+                          <i className="fa fa-life-ring" aria-hidden="true"></i>Do
                           you need an awesome virtual assistant? to know all the
                           best tools to get things done quickly.
                         </NavLink>

@@ -322,44 +322,44 @@ const Inventory = () => {
         </div>
       </div>
 
-      <div class="service_area style2 pb-70 invent">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6"></div>
-            <div class="col-lg-6">
-              <div class="section_title text_left mb-55">
-                <div class="section_main_title">
+      <div className="service_area style2 pb-70 invent">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6"></div>
+            <div className="col-lg-6">
+              <div className="section_title text_left mb-55">
+                <div className="section_main_title">
                   <h1> Our advanced </h1>
                 </div>
-                <div class="em_bar">
-                  <div class="em_bar_bg"></div>
+                <div className="em_bar">
+                  <div className="em_bar_bg"></div>
                 </div>
-                <div class="section_content_text pt-4">
+                <div className="section_content_text pt-4">
                   <p>Inventory & order routing engine helps you</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="service_single_thumb left">
-                <div class="single_service_inner_thumb">
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="service_single_thumb left">
+                <div className="single_service_inner_thumb">
                   <img src="assets/images/service1.png" alt="" />
                 </div>
-                <div class="single_service_brg">
-                  <div class="single_service_brg_thumb rotateme">
+                <div className="single_service_brg">
+                  <div className="single_service_brg_thumb rotateme">
                     <img src="assets/images/service-rot.png" alt="" />
                   </div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-6 col-sm-6">
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-dribbble"></i>
+            <div className="col-lg-6 col-sm-6">
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-dribbble"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4>
                       {' '}
                       Automatically manage & update inventory stock across
@@ -368,12 +368,12 @@ const Inventory = () => {
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-phone"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-phone"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4>
                       {' '}
                       Centralised inventory management for all the channels
@@ -382,12 +382,12 @@ const Inventory = () => {
                 </div>
               </div>
 
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-desktop"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-desktop"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4>
                       {' '}
                       Keep track of your products as you sell and restock across
@@ -396,12 +396,12 @@ const Inventory = () => {
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-dashcube"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-dashcube"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4>
                       {' '}
                       Delight customers by reducing fulfilment errors & meeting
@@ -410,12 +410,12 @@ const Inventory = () => {
                   </div>
                 </div>
               </div>
-              <div class="single_service">
-                <div class="single_service_inner">
-                  <div class="single_service_icon">
-                    <i class="fa fa-forward"></i>
+              <div className="single_service">
+                <div className="single_service_inner">
+                  <div className="single_service_icon">
+                    <i className="fa fa-forward"></i>
                   </div>
-                  <div class="single_service_content">
+                  <div className="single_service_content">
                     <h4>
                       Simplify complex workflows through our automated order
                       routing based on predefined service levels for part

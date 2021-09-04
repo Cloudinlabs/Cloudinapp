@@ -28,30 +28,30 @@ const Privacy = () => {
         </div>
       </div>
 
-      <div class="feature_area pt-80 pb-70">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="section_title text_center mb-55">
-                <div class="section_main_title">
+      <div className="feature_area pt-80 pb-70">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="section_title text_center mb-55">
+                <div className="section_main_title">
                   <h1> Privacy Statement</h1>
                 </div>
-                <div class="em_bar">
-                  <div class="em_bar_bg"></div>
+                <div className="em_bar">
+                  <div className="em_bar_bg"></div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-video-camera"></i>
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-video-camera"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>Section 1</h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     <b>What do we do with your Information? </b>
                     <br />
@@ -68,17 +68,17 @@ const Privacy = () => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-server"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-server"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 2 <br /> Consent
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     <b>How do you get my consent?</b>
                     <br />
@@ -103,17 +103,17 @@ const Privacy = () => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-cloud"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-cloud"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 3 <br /> Disclosure
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     We may disclose your personal information if we are required
                     by law to do so or if you violate our Terms of Service.
@@ -121,17 +121,17 @@ const Privacy = () => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-desktop"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-desktop"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 4 <br /> Payment
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     We use Razorpay for processing payments. We/Razorpay do not
                     store your card data on their servers. The data is encrypted
@@ -154,17 +154,17 @@ const Privacy = () => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-server"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-server"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 5 <br /> Third-Party Services
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     In general, the third-party providers used by us will only
                     collect, use and disclose your information to the extent
@@ -194,17 +194,17 @@ const Privacy = () => {
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-cloud"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-cloud"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 6 <br /> Security
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     To protect your personal information, we take reasonable
                     precautions and follow industry best practices to make sure
@@ -215,17 +215,17 @@ const Privacy = () => {
               </div>
             </div>
 
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-cloud"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-cloud"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 7 <br /> Cookies
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     We use cookies to maintain session of your user. It is not
                     used to personally identify you on other websites.
@@ -234,17 +234,17 @@ const Privacy = () => {
               </div>
             </div>
 
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-cloud"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-cloud"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 8 <br /> Age Of Consent
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     By using this site, you represent that you are at least the
                     age of majority in your state or province of residence, or
@@ -256,17 +256,17 @@ const Privacy = () => {
               </div>
             </div>
 
-            <div class="col-lg-12">
-              <div class="feature_style_five mb-30">
-                <div class="feature_style_five_cion mb-20">
-                  <i class="fa fa-cloud"></i>
+            <div className="col-lg-12">
+              <div className="feature_style_five mb-30">
+                <div className="feature_style_five_cion mb-20">
+                  <i className="fa fa-cloud"></i>
                 </div>
-                <div class="feature_style_five_title mb-3">
+                <div className="feature_style_five_title mb-3">
                   <h4>
                     Section 9 <br /> Changes To This Privacy Policy
                   </h4>
                 </div>
-                <div class="feature_style_five_text">
+                <div className="feature_style_five_text">
                   <p>
                     We reserve the right to modify this privacy policy at any
                     time, so please review it frequently. Changes and
