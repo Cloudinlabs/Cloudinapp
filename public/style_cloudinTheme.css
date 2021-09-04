@@ -157,6 +157,9 @@ element.style {
 .ai_box_minheight {
     min-height: 505px!important;
 }
+.ai_box_minheight2 {
+    min-height: 270px!important;
+}
 
 .blockChain_Box_minHeight {
     min-height: 405px!important;

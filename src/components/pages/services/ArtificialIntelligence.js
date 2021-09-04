@@ -127,7 +127,7 @@ const ArtificialIntelligence = () => {
           </div>
           <div className="row">
             <div className="col-lg-3">
-              <div className="feature_style_five mb-30">
+              <div className="ai_box_minheight2 feature_style_five mb-30">
                 <div className="feature_style_five_cion mb-20">
                   <i className="fa fa-video-camera"></i>
                 </div>
@@ -141,7 +141,7 @@ const ArtificialIntelligence = () => {
               </div>
             </div>
             <div className="col-lg-3">
-              <div className="feature_style_five mb-30">
+              <div className="ai_box_minheight2 feature_style_five mb-30">
                 <div className="feature_style_five_cion mb-20">
                   <i className="fa fa-server"></i>
                 </div>
@@ -155,7 +155,7 @@ const ArtificialIntelligence = () => {
               </div>
             </div>
             <div className="col-lg-3">
-              <div className="feature_style_five mb-30">
+              <div className="ai_box_minheight2 feature_style_five mb-30">
                 <div className="feature_style_five_cion mb-20">
                   <i className="fa fa-cloud"></i>
                 </div>
@@ -169,7 +169,7 @@ const ArtificialIntelligence = () => {
               </div>
             </div>
             <div className="col-lg-3">
-              <div className="feature_style_five mb-30">
+              <div className="ai_box_minheight2 feature_style_five mb-30">
                 <div className="feature_style_five_cion mb-20">
                   <i className="fa fa-desktop"></i>
                 </div>
