@@ -42,9 +42,9 @@ const Finjo = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    Simplify, speedup and automate
+                    Simplify, speedup and automate <br />
                     <span>
-                      your payment collection and distribution process
+                       your payment collection and distribution process
                     </span>
                   </h1>
                 </div>
@@ -256,7 +256,7 @@ const Finjo = () => {
         </div>
       </div>
 
-      <div className="service_area style2 pb-70 invent">
+      <div className="service_area style2 pt-5 pb-70 invent">
         <div className="container">
           <div className="row">
             <div className="col-lg-6"></div>
@@ -349,7 +349,7 @@ const Finjo = () => {
               </div>
             </div>
           </div>
-          <div className="row">
+          <div className="row pt-5">
             <div className="col-lg-6"></div>
             <div className="col-lg-6">
               <div className="section_title text_left mb-55">
