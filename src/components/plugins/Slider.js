@@ -320,29 +320,7 @@ const Slider = () => {
                   </p>
                 </div>
               </div>
-              <div className="singel_about_left mb-30">
-                <div className="singel_about_left_inner mb-3">
-                  <div className="about_icon mr-4">
-                    <div className="icon mt-3">
-                      <i className="flaticon-padlock"></i>
-                    </div>
-                  </div>
-                  <div className="singel-about-content">
-                    <h5>Warranty Management</h5>
-                  </div>
-                </div>
-                <p>&nbsp;</p>
-                <div className="singel_about_left_inner">
-                  <div className="about_icon mr-4">
-                    <div className="icon mt-3">
-                      <i className="flaticon-code"></i>
-                    </div>
-                  </div>
-                  <div className="singel-about-content">
-                    <h5>Quality Control System</h5>
-                  </div>
-                </div>
-              </div>
+               
             </div>
           </div>
         </div>
