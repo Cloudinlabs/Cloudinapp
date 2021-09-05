@@ -12,7 +12,7 @@ const ReactDev = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>React Native</h2>
+                  <h2>React native</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -20,7 +20,7 @@ const ReactDev = () => {
                       <a href="#">Home</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
-                      <i className="fa fa-angle-right"></i> <span>React Native</span>
+                      <i className="fa fa-angle-right"></i> <span>React native</span>
                     </li>
                   </ul>
                 </div>
@@ -48,7 +48,7 @@ const ReactDev = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    Our <span>Tailor-made Solutions</span>
+                    Our <span>tailor-made solutions</span>
                   </h1>
                 </div>
                 <div className="em_bar">

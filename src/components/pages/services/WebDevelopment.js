@@ -12,7 +12,7 @@ const WebDevelopment = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>Web Application</h2>
+                  <h2>Web application</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const WebDevelopment = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span>Web Application</span>
+                      <span>Web application</span>
                     </li>
                   </ul>
                 </div>
@@ -48,7 +48,7 @@ const WebDevelopment = () => {
                   <h1>
                     Ground-up bespoke web development solutions
                     <br />
-                    <span> Our Custom Solutions</span>
+                    <span> our Custom Solutions</span>
                   </h1>
                 </div>
                 <div className="em_bar">

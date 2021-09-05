@@ -12,7 +12,7 @@ const Privacy = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2> Privacy Statement</h2>
+                  <h2> Privacy statement</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const Privacy = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span> Privacy Statement</span>
+                      <span> Privacy statement</span>
                     </li>
                   </ul>
                 </div>

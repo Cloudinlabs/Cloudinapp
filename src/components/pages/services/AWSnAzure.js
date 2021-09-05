@@ -12,7 +12,7 @@ const AWSnAzure = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>AWS & Azure Application</h2>
+                  <h2>AWS & Azure</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -45,10 +45,10 @@ const AWSnAzure = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    to achieve uninterrupted continuity and transformative
+                    To achieve uninterrupted continuity and transformative
                     agility
                     <br />
-                    <span> Our Excellency</span>
+                    <span> our Excellency</span>
                   </h1>
                 </div>
                 <div className="em_bar">

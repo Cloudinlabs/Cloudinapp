@@ -45,9 +45,8 @@ const Finjo = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    Simplify, speedup and automate <br />
-                    <span>
-                       your payment collection and distribution process
+                    Simplify, speedup and automate  
+                    <span> your payment collection and distribution process
                     </span>
                   </h1>
                 </div>

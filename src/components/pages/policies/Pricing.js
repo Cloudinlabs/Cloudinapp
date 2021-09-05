@@ -12,7 +12,7 @@ const Pricing = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2> Pricing Policy</h2>
+                  <h2> Pricing policy</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const Pricing = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span> Pricing Policy</span>
+                      <span> Pricing policy</span>
                     </li>
                   </ul>
                 </div>

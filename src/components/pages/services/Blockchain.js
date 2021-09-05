@@ -46,7 +46,8 @@ const Blockchain = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    the next wave of digital business<span> Our Space</span>
+                    The next wave of digital business 
+                    <span> our Space</span>
                   </h1>
                 </div>
                 <div className="em_bar">

@@ -46,7 +46,7 @@ const ChatBot = () => {
                 <div className="section_main_title">
                   <h1>
                     Decoding intelligent man-machine conversations
-                    <span> Our Conversational AI</span>
+                    <span> our conversational AI</span>
                   </h1>
                 </div>
                 <div className="em_bar">

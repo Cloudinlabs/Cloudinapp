@@ -12,7 +12,7 @@ const Refund = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2> Refund Policy</h2>
+                  <h2> Refund policy</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const Refund = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span> Refund Policy</span>
+                      <span> Refund policy</span>
                     </li>
                   </ul>
                 </div>

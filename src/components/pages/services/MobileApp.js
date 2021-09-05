@@ -12,7 +12,7 @@ const MobileApp = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>Mobile App Development</h2>
+                  <h2>Mobile app development</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const MobileApp = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span>Mobile App Development</span>
+                      <span>Mobile app development</span>
                     </li>
                   </ul>
                 </div>
@@ -46,9 +46,9 @@ const MobileApp = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    that you can count on
+                    That you can count on
                     <br />
-                    <span> Our Cutting-edge technology</span>
+                    <span> our Cutting-edge technology</span>
                   </h1>
                 </div>
                 <div className="em_bar">

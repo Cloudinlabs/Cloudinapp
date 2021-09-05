@@ -64,7 +64,7 @@ const VirtualAssistant = () => {
                   className="section_main_title wow fadeInRight"
                   data-wow-delay="0.3s"
                 >
-                  <h1> an awesome virtual assistant?</h1>
+                  <h1> An awesome virtual assistant?</h1>
                   <h5>
                     Our CloudinAssistants have the top administrative skills and
                     know all the best tools to get things done quickly.

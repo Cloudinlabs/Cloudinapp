@@ -12,7 +12,7 @@ const ITConsulting = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>IT Consulting</h2>
+                  <h2>IT consulting</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -20,7 +20,7 @@ const ITConsulting = () => {
                       <a href="#">Home</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
-                      <i className="fa fa-angle-right"></i> <span>IT Consulting</span>
+                      <i className="fa fa-angle-right"></i> <span>IT consulting</span>
                     </li>
                   </ul>
                 </div>
@@ -45,9 +45,9 @@ const ITConsulting = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    consulting solutions suitable for your key business domains{' '}
+                    Consulting solutions suitable for your key business domains{' '}
                     <br />
-                    <span> Our Driving Vision</span>
+                    <span> our driving vision</span>
                   </h1>
                 </div>
                 <div className="em_bar">

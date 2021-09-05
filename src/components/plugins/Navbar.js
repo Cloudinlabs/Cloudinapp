@@ -171,7 +171,7 @@ const Navbar = () => {
                           <ul className="sub-menu">
                             <li>
                               <NavLink activeClassName="active" to="/ai">
-                                Artificial Intelligence
+                                Artificial intelligence
                               </NavLink>
                             </li>
                             <li>
@@ -189,7 +189,7 @@ const Navbar = () => {
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/chatBot">
-                                Chat bot
+                              Chatbot
                               </NavLink>
                             </li>
                             <li>
@@ -207,22 +207,22 @@ const Navbar = () => {
                                 activeClassName="active"
                                 to="/iTConsulting"
                               >
-                                IT Consulting
+                                IT consulting
                               </NavLink>
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/mobileApp">
-                                Mobile App
+                                Mobile app
                               </NavLink>
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/webApp">
-                                Web App
+                                Web app
                               </NavLink>
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/uiux">
-                                UI/UX Design
+                                UI/UX design
                               </NavLink>
                             </li>
                             <li>
@@ -230,7 +230,7 @@ const Navbar = () => {
                                 activeClassName="active"
                                 to="/virtualAssist"
                               >
-                                Virtual Assistant
+                                Virtual assistant
                               </NavLink>
                             </li>
                           </ul>
@@ -272,17 +272,17 @@ const Navbar = () => {
                           <ul className="sub-menu">
                             <li>
                               <NavLink activeClassName="active" to="/privacy">
-                                Privacy Policy
+                                Privacy policy
                               </NavLink>
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/pricing">
-                                Pricing Policy
+                                Pricing policy
                               </NavLink>
                             </li>
                             <li>
                               <NavLink activeClassName="active" to="/refund">
-                                Refund Policy
+                                Refund policy
                               </NavLink>
                             </li>
                             <li>
@@ -299,7 +299,7 @@ const Navbar = () => {
                         </li>
                       </ul>
                       <div className="donate-btn-header">
-                        <a className="dtbtn">Get A Quote</a>
+                        <a className="dtbtn">Get a quote</a>
                       </div>
                     </nav>
                   </div>

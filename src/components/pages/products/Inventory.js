@@ -46,7 +46,7 @@ const Inventory = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    the stockroom / warehouse inventory that
+                    The stockroom / warehouse inventory that
                     <span> automates your business</span>
                   </h1>
                 </div>

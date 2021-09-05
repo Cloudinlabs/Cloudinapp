@@ -46,7 +46,7 @@ const UxUi = () => {
                 <div className="section_main_title">
                   <h1>
                     Users with our elegant UI/UX designs
-                    <span> Our Graceful UI/UX </span>
+                    <br /><span> our graceful UI/UX </span>
                   </h1>
                 </div>
                 <div className="em_bar">

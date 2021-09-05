@@ -46,7 +46,7 @@ const MrBusiness = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    stay focused and work smarter with automated solutions of
+                    Stay focused and work smarter with automated solutions of
                     <span> Cloudin</span>
                   </h1>
                 </div>

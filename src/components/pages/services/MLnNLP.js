@@ -15,7 +15,7 @@ const MLnNLP = () => {
                   <div className="banner_text_content white">
                     <h5 className="mb-3">Our Competency</h5>
                     <h1>
-                      Simplify the creation of Machine Learning Modelswith
+                      Simplify the creation of machine learning modelswith
                       powerful NLP algorithm with datasets of any size
                     </h1>
                   </div>

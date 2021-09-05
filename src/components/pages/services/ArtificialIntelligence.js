@@ -17,7 +17,7 @@ const ArtificialIntelligence = () => {
                       Enhance your digital journey through end-to-end
                     </h5>
                     <h1 className="wow fadeInUp" data-wow-delay="0.4s">
-                      Artificial Intelligence services
+                      Artificial intelligence services
                     </h1>
                   </div>
                   <div className="banner_content_text white pt-30">

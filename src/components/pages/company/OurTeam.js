@@ -12,7 +12,7 @@ const OurTeam = () => {
             <div className="col-lg-12">
               <div className="breatcome_title">
                 <div className="breatcome_title_inner pb-2">
-                  <h2>Team Member</h2>
+                  <h2>Team member</h2>
                 </div>
                 <div className="breatcome_content">
                   <ul>
@@ -21,7 +21,7 @@ const OurTeam = () => {
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
-                      <span>Team Member</span>
+                      <span>Team member</span>
                     </li>
                   </ul>
                 </div>

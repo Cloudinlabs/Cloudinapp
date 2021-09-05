@@ -45,8 +45,8 @@ const ECamp = () => {
                 </div>
                 <div className="section_main_title">
                   <h1>
-                    for both
-                    <br />
+                    For both
+                     
                     <span> the institutes and parents/students </span>
                   </h1>
                 </div>
