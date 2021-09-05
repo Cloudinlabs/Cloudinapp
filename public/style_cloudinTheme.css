@@ -237,11 +237,10 @@ element.style {
     display: block;
 }
 
-
-
 .menuAlign {
-    z-index:9999;
+    z-index: 9999;
 }
+
 @media only screen and (min-width: 1024px) {
     .techno_menu.mobile-nav {
         transform: translate(0, 0) !important;

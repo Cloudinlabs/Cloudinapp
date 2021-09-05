@@ -48,9 +48,7 @@ const Privacy = () => {
                 <div className="feature_style_five_cion mb-20">
                   <i className="fa fa-video-camera"></i>
                 </div>
-                <div className="feature_style_five_title mb-3">
-                  <h4>Section 1</h4>
-                </div>
+                 
                 <div className="feature_style_five_text">
                   <p>
                     <b>What do we do with your Information? </b>
@@ -75,7 +73,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 2 <br /> Consent
+                     Consent
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -110,7 +108,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 3 <br /> Disclosure
+                     Disclosure
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -128,7 +126,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 4 <br /> Payment
+                     Payment
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -161,7 +159,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 5 <br /> Third-Party Services
+                     Third-Party Services
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -201,7 +199,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 6 <br /> Security
+                     Security
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -222,7 +220,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 7 <br /> Cookies
+                    Cookies
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -241,7 +239,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 8 <br /> Age Of Consent
+                     Age Of Consent
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
@@ -263,7 +261,7 @@ const Privacy = () => {
                 </div>
                 <div className="feature_style_five_title mb-3">
                   <h4>
-                    Section 9 <br /> Changes To This Privacy Policy
+                     Changes To This Privacy Policy
                   </h4>
                 </div>
                 <div className="feature_style_five_text">
