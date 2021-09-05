@@ -120,7 +120,7 @@ const WebDevelopment = () => {
                   <div className="service_style_eight_content white pt-4">
                     <h5> Custom web application development</h5>
                     <p>
-                       From basic landing pages to customized web development
+                      From basic landing pages to customized web development
                       India, we offer custom web application development
                       services
                     </p>

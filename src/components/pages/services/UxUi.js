@@ -269,14 +269,14 @@ const UxUi = () => {
                   >
                     <div className="about_icon_box_inner mb-20">
                       <span>
-                        <i className="fa fa-check-square-o"></i> o
+                        <i className="fa fa-check-square-o"></i> 
                         Touch-friendly navigation options for enhanced user
                         experience
                       </span>
                     </div>
                     <div className="about_icon_box_inner mb-20">
                       <span>
-                        <i className="fa fa-check-square-o"></i> o Ensure a
+                        <i className="fa fa-check-square-o"></i> Ensure a
                         simplified design layouts to provide a pleasant mobile
                         experience
                       </span>

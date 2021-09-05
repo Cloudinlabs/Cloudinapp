@@ -139,7 +139,7 @@ const ReactDev = () => {
                   <div className="service_style_eight_content white pt-4">
                     <h4> MVP Development </h4>
                     <p>
-                       Build your product in iterations while keeping your
+                     Build your product in iterations while keeping your
                       overheads low, ensuring you to generate maximum user
                       feedback and iterate into a superior product.
                     </p>
@@ -175,7 +175,7 @@ const ReactDev = () => {
                   <div className="service_style_eight_content white pt-4">
                     <h4> Staff Augmentation </h4>
                     <p>
-                       Dedicated developers specialized in React Native to help
+                      Dedicated developers specialized in React Native to help
                       you meet your project goals and budget without unnecessary
                       overheads
                     </p>

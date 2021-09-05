@@ -6,7 +6,7 @@ const MLnNLP = () => {
       <div className="banner_area banner2 d-flex align-items-center">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6">
+            <div className="col-lg-8">
               <div className="single_banner">
                 <div className="single_banner_content">
                   <div className="banner_text_content white">
@@ -48,7 +48,7 @@ const MLnNLP = () => {
                         className="video-vemo-icon venobox vbox-item"
                         data-vbtype="youtube"
                         data-autoplay="true"
-                        href="https://youtu.be/BS4TUd7FJSg"
+                        href="#"
                       >
                         <i className="fa fa-play"></i>
                         <div id="spinnerbtn"></div>
@@ -58,7 +58,7 @@ const MLnNLP = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6">
+            <div className="col-lg-4">
               <div className="single_banner_thumb">
                 <div className="machine_banner_shape">
                   <div className="machine_banner_shape_inner1 bounce-animate">

@@ -283,27 +283,19 @@ const Inventory = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 col-md-6 col-sm-12">
-              <div className="single_pricing mb-4">
-                <div className="single_pricing_content">
-                  <div className="single_pricing_content_inner">
-                    <div className="pricing_body pt-35 pb-4">
-                      <div className="featur">
-                        <ul>
-                          <li>
-                            Cloudin suits of services helps you to get an
-                            accurate
-                          </li>
-                          <li>
-                            real-time view of inventory across your stores
-                          </li>
-                          <li>
-                            online channels & warehouses to make smarter
-                            fulfilment decisions & meet customers' delivery
-                            expectations
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
+              <div className="single_pricing_content_inner">
+                <div className="pricing_body pt-35 pb-4">
+                  <div className="featur text_center">
+                    <ul>
+                      <li>
+                        Cloudin suits of services helps you to get an accurate
+                      </li>
+                      <li>real-time view of inventory across your stores</li>
+                      <li>
+                        online channels & warehouses to make smarter fulfilment
+                        decisions & meet customers' delivery expectations
+                      </li>
+                    </ul>
                   </div>
                 </div>
               </div>
