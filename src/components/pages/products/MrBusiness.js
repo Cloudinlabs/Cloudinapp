@@ -17,7 +17,7 @@ const MrBusiness = () => {
                 <div className="breatcome_content">
                   <ul>
                     <li>
-                      <a href="index.html">Home</a>{' '}
+                      <a href="#">Home</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
