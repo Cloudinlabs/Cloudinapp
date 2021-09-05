@@ -241,6 +241,16 @@ element.style {
     z-index: 9999;
 }
 
+ 
+ .feature_style_five_text ul, .feature_style_five_text ul li {
+    list-style: none;
+    color: #616161;
+}
+
+.feature_style_five:hover .feature_style_five_text ul, .feature_style_five:hover .feature_style_five_text ul li {
+    color: #fff;
+}
+
 @media only screen and (min-width: 1024px) {
     .techno_menu.mobile-nav {
         transform: translate(0, 0) !important;
