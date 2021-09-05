@@ -74,7 +74,6 @@ const Inventory = () => {
                     </p>
                   </div>
                 </div>
-                 
               </div>
             </div>
           </div>
@@ -85,25 +84,20 @@ const Inventory = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 col-md-6 col-sm-12">
-              <div className="single_pricing mb-4">
-                <div className="single_pricing_content">
-                  <div className="single_pricing_content_inner">
+              <div className="single_pricing_content_inner">
+                <div className="pricing_body pb-4 text-center">
+                  <div className="featur">
                     <div className="pricing_head pb-4">
                       <div className="pricing_title">
                         <h3> No More Spreadsheets</h3>
                       </div>
                     </div>
-
-                    <div className="pricing_body pt-35 pb-4">
-                      <div className="featur">
-                        <ul>
-                          <li>Automated</li>
-                          <li>Centralized</li>
-                          <li>Single View of Inventory - Across Channels</li>
-                          <li>Fulfilment Locations & Systems</li>
-                        </ul>
-                      </div>
-                    </div>
+                    <ul>
+                      <li>Automated</li>
+                      <li>Centralized</li>
+                      <li>Single View of Inventory - Across Channels</li>
+                      <li>Fulfilment Locations & Systems</li>
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -421,9 +415,7 @@ const Inventory = () => {
                   </div>
                 </div>
               </div>
-           
             </div>
-             
           </div>
         </div>
       </div>
