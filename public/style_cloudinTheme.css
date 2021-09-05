@@ -237,6 +237,10 @@ element.style {
     display: block;
 }
 
+.techno_menu.mobile-nav {
+    transform: translate(0, 0) !important;
+}
+
 @media only screen and (max-width: 1024px) {
     .no-js .owl-carousel, .owl-carousel.owl-loaded, .banner_area {
         display: block!important;

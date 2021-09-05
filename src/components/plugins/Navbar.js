@@ -137,7 +137,7 @@ const Navbar = () => {
                     <nav className="techno_menu mobile-nav">
                       <ul className="nav_scroll">
                         <li className="standalone">
-                          <NavLink to="/">Home</NavLink>
+                          <NavLink to="/home">Home</NavLink>
                         </li>
                         <li>
                           <NavLink to="/aboutus">Company</NavLink>
