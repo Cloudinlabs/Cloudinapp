@@ -1,5 +1,6 @@
 import React from 'react';
 import OwlCarousel from 'react-owl-carousel';
+import { NavLink } from 'react-router-dom';
 
 const Slider = () => {
   return (
@@ -320,7 +321,6 @@ const Slider = () => {
                   </p>
                 </div>
               </div>
-               
             </div>
           </div>
         </div>
@@ -376,9 +376,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/ai">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -416,9 +416,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/mLnNLP">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -456,9 +456,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/blockchain">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -496,9 +496,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/chatBot">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -536,9 +536,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/aWSnAzure">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -576,9 +576,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/react">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -616,9 +616,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/iTConsulting">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -656,9 +656,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/mobileApp">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -696,9 +696,9 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/webApp">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
@@ -738,9 +738,49 @@ const Slider = () => {
                       </p>
                     </div>
                     <div className="flipbox_button">
-                      <a href="">
+                      <NavLink activeClassName="active" to="/uiux">
                         Read More<i className="fa fa-angle-double-right"></i>
-                      </a>
+                      </NavLink>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 col-sm-12 col-xs-6">
+              <div className="techno_flipbox mb-30">
+                <div className="techno_flipbox_font">
+                  <div className="techno_flipbox_inner">
+                    <div className="techno_flipbox_icon">
+                      <div className="icon bgOrange">
+                        <i className="flaticon-business-and-finance"></i>
+                      </div>
+                    </div>
+                    <div className="flipbox_title">
+                      <h3>Virtual Assistant</h3>
+                    </div>
+                    <div className="flipbox_desc">
+                      <p>
+                        Our CloudinAssistants have the top administrative skills
+                        and know all the best tools to get things done quickly.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="techno_flipbox_back service_bg3">
+                  <div className="techno_flipbox_inner">
+                    <div className="flipbox_title">
+                      <h3>Virtual Assistant</h3>
+                    </div>
+                    <div className="flipbox_desc">
+                      <p>
+                        Our CloudinAssistants have the top administrative skills
+                        and know all the best tools to get things done quickly.
+                      </p>
+                    </div>
+                    <div className="flipbox_button">
+                      <NavLink activeClassName="active" to="/virtualAssist">
+                        Read More<i className="fa fa-angle-double-right"></i>
+                      </NavLink>
                     </div>
                   </div>
                 </div>
