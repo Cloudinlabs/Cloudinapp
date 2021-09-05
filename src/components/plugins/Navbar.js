@@ -118,7 +118,7 @@ const Navbar = () => {
                   </a>
                   <a className="main_sticky" href="index.html" title="Cloudin">
                   <NavLink to="/home"><img
-                      src="assets/images/cloudin_logo_hover.png"
+                      src="assets/images/cloudin_logo.png"
                       alt="Cloudin"
                     /></NavLink>
                   </a>

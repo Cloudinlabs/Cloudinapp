@@ -1184,9 +1184,9 @@ const Slider = () => {
           <div className="row">
             <div className="col-lg-12">
               <div className="section_title white text_center mb-60 mt-3">
-                <div className="phone_number mb-3">
+                {/* <div className="phone_number mb-3">
                   <h5> +91 90436 86520</h5>
-                </div>
+                </div> */}
                 <div className="section_main_title">
                   <h1>To make requests for the</h1>
                   <h1>further information</h1>

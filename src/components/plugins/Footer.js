@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
- 
+
 import RecentImg1 from '../../assets/images/recent1.jpg';
 import RecentImg3 from '../../assets/images/recent3.jpg';
 
@@ -61,16 +61,16 @@ const Footer = (props) => {
                     <li>
                       <a href="#">TextLocal</a>
                       <br />
-                      <p className="color_yellow">
+                      {/* <p className="color_yellow">
                         Condimentum rhoncus, sem quam semper libero
-                      </p>
+                      </p> */}
                     </li>
                     <li>
                       <a href="#">Collect ChatBot</a>
                       <br />
-                      <p className="color_yellow">
+                      {/* <p className="color_yellow">
                         Condimentum rhoncus, sem quam semper libero
-                      </p>
+                      </p> */}
                     </li>
                   </ul>
                 </div>
