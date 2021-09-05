@@ -91,11 +91,7 @@ const Navbar = () => {
                           <i className="fa fa-twitter"></i>
                         </a>
                       </li>
-                      <li>
-                        <a href="#">
-                          <i className="fa fa-pinterest"></i>
-                        </a>
-                      </li>
+                       
                       <li>
                         <a href="#">
                           <i className="fa fa-linkedin"></i>

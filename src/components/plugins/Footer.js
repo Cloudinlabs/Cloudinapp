@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import { NavLink } from 'react-router-dom';
 
 import RecentImg1 from '../../assets/images/recent1.jpg';
 import RecentImg3 from '../../assets/images/recent3.jpg';
@@ -158,10 +159,13 @@ const Footer = (props) => {
             <div className="col-lg-6 col-md-6">
               <div className="footer-bottom-right">
                 <div className="footer-bottom-right-text">
-                  <a className="absod" href="#">
-                    Privacy Policy{' '}
-                  </a>
-                  <a href="#"> Terms & Conditions</a>
+                  <NavLink activeClassName="active" to="/privacy">
+                    Privacy policy
+                  </NavLink>
+                  &nbsp; | &nbsp;
+                  <NavLink activeClassName="active" to="/tc">
+                    Terms & Conditions
+                  </NavLink>
                 </div>
               </div>
             </div>
