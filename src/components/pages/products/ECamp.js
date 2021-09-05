@@ -63,11 +63,7 @@ const ECamp = () => {
                     </p>
                   </div>
                 </div>
-                <div className="singel_about_left_inner pl-4">
-                  <div className="button two">
-                    <a href="#">More Details</a>
-                  </div>
-                </div>
+                 
               </div>
             </div>
           </div>
