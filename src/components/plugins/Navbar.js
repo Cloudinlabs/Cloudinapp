@@ -125,7 +125,7 @@ const Navbar = () => {
                 </div>
               </div>
               <div className="col-md-9 col-sm-12 col-xs-12 menuAlign">
-                <div class="mobile-wrapper">
+                <div className="mobile-wrapper">
                   <div className="mobile mobile-one">
                     <div className="header">
                       <div className="menu-toggle">
