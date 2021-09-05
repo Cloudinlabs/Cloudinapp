@@ -1,8 +1,11 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import OwlCarousel from 'react-owl-carousel';
 import { NavLink } from 'react-router-dom';
 
 const Slider = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
   return (
     <div>
       <OwlCarousel
