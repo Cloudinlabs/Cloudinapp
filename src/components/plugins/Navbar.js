@@ -114,13 +114,13 @@ const Navbar = () => {
               <div className="col-md-3 col-sm-12 col-xs-12 logoAlign">
                 <div className="logo mt-1">
                   <a className="logo_img" href="index.html" title="Cloudin">
-                    <img src="assets/images/cloudin_logo.png" alt="Cloudin" />
+                  <NavLink to="/home"><img src="assets/images/cloudin_logo.png" alt="Cloudin" /></NavLink>
                   </a>
                   <a className="main_sticky" href="index.html" title="Cloudin">
-                    <img
+                  <NavLink to="/home"><img
                       src="assets/images/cloudin_logo_hover.png"
                       alt="Cloudin"
-                    />
+                    /></NavLink>
                   </a>
                 </div>
               </div>
