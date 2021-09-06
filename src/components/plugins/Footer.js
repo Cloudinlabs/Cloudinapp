@@ -38,18 +38,18 @@ const Footer = (props) => {
                     </a>
                   </div>
                   <div className="follow-company-icon">
-                    <a href="#">
+                    <a href="https://www.facebook.com/cloudintechnologies/">
                       <i className="fa fa-facebook"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://twitter.com/cloudintech?s=21">
                       <i className="fa fa-twitter"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/company/cloudin-tech">
                       <i className="fa fa-linkedin"></i>
                     </a>
-                    <a href="#">
-                      <i className="fa fa-skype"></i>
-                    </a>
+                    {/* <a href="#"> */}
+                      {/* <i className="fa fa-skype"></i> */}
+                    {/* </a> */}
                   </div>
                 </div>
               </div>
