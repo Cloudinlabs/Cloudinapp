@@ -82,18 +82,18 @@ const Navbar = () => {
                   <div className="header_top_menu_icon_inner">
                     <ul>
                       <li>
-                        <a href="https://www.facebook.com/cloudintechnologies/">
+                        <a href="https://www.facebook.com/cloudintechnologies/" target="_blank">
                           <i className="fa fa-facebook"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/cloudintech?s=21">
+                        <a href="https://twitter.com/cloudintech?s=21" target="_blank">
                           <i className="fa fa-twitter"></i>
                         </a>
                       </li>
                        
                       <li>
-                        <a href="https://www.linkedin.com/company/cloudin-tech">
+                        <a href="https://www.linkedin.com/company/cloudin-tech" target="_blank">
                           <i className="fa fa-linkedin"></i>
                         </a>
                       </li>
