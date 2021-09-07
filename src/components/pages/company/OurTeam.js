@@ -77,55 +77,54 @@ const OurTeam = () => {
         </div>
       </div>
 
-      <div class="team_area btmName bg_color2 pt-80 pb-70">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="section_title text_center mb-50 mt-3">
-                <div class="section_sub_title uppercase mb-3">
+      <div className="team_area btmName bg_color2 pt-80 pb-70">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="section_title text_center mb-50 mt-3">
+                <div className="section_sub_title uppercase mb-3">
                   <h6>Our CEO</h6>
                 </div>
-                <div class="section_main_title">
+                <div className="section_main_title">
                   <h4>
                     Services Needs the Technology Attention <br />
                     We Aim to provide the Best Tech services
                   </h4>
                 </div>
-
-                <div class="em_bar">
-                  <div class="em_bar_bg"></div>
+                <div className="em_bar">
+                  <div className="em_bar_bg"></div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row justify-content-md-center">
-            <div class="col-lg-3 col-md-6 col-sm-12">
-              <div class="team_style_two mb-1">
-                <div class="team_style_two_thumb">
+          <div className="row justify-content-md-center">
+            <div className="col-lg-3 col-md-6 col-sm-12">
+              <div className="team_style_two mb-1">
+                <div className="team_style_two_thumb">
                   <img src="assets/images/sakthi_ceo.jpeg" alt="" />
                 </div>
-                <div class="team_style_two_content">
-                  <div class="team_style_two_title pb-0">
+                <div className="team_style_two_content">
+                  <div className="team_style_two_title pb-0">
                     <h5>Sakthi Ramasamy</h5>
                     <span>Founder & CEO</span>
                   </div>
-                  <div class="team_style_two_icon">
+                  <div className="team_style_two_icon">
                     <a href="#">
-                      <i class="fa fa-facebook"></i>
+                      <i className="fa fa-facebook"></i>
                     </a>
                     <a href="#">
-                      <i class="fa fa-twitter"></i>
+                      <i className="fa fa-twitter"></i>
                     </a>
                     <a href="#">
-                      <i class="fa fa-linkedin"></i>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                     <a href="#">
-                      <i class="fa fa-pinterest"></i>
+                      <i className="fa fa-pinterest"></i>
                     </a>
                   </div>
                 </div>                
               </div>
-              <div class="single_team_content">
+              <div className="single_team_content">
                   <h4>Sakthi Ramasamy</h4>
                   <span>Founder & CEO</span>
                 </div>
