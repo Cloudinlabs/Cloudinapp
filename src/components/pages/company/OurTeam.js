@@ -58,14 +58,14 @@ const OurTeam = () => {
                 </div>
               </div>
               <div className="team_member_button pt-5">
-                <div className="button">
+                {/* <div className="button">
                   <a href="#">
                     Team Member<i className="fa fa-long-arrow-right"></i>
                   </a>
                   <a className="active" href="#">
                     Join Our Team<i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 col-xs-6">
