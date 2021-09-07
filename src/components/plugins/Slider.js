@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 
 const Slider = () => {
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div>
       <OwlCarousel
@@ -818,7 +818,11 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4>Inventory</h4>
+                    <h4>
+                      <NavLink activeClassName="active" to="/inventory">
+                        Inventory
+                      </NavLink>
+                    </h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
@@ -837,7 +841,11 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4>Mr.Business</h4>
+                    <h4>
+                      <NavLink activeClassName="active" to="/mrBusiness">
+                        Mr.Business
+                      </NavLink>
+                    </h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
@@ -855,7 +863,7 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4>Finjo</h4>
+                    <h4><NavLink activeClassName="active" to="/finjo">Finjo</NavLink></h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
@@ -874,7 +882,7 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4>E-Camp</h4>
+                    <h4><NavLink activeClassName="active" to="/eCamp">E-Camp</NavLink></h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
