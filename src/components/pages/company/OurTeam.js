@@ -133,17 +133,16 @@ const OurTeam = () => {
               <div className="choose_content">
                 <div className="choose_content_text_bold">
                   <p>
-                    Contrary to popular belief, Lorem Ipsum is not simply and
-                    random text. It has roots in a piece of classical
+                    Working for Technological footprints always seeks for user
+                    requirements as well as customized workload.
                   </p>
                 </div>
                 <div className="choose_content_text">
                   <p>
-                    The standard chunk of Lorem Ipsum used since the 1500s is
-                    reproduced below for those interested. Sections 1.10.32 and
-                    1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are
-                    also reproduced in their exact original form, accompanied by
-                    English versions from the 1914 translation
+                    After a long swamp we have reached 800+ clients into an
+                    inventory and websites development . We are cheerful to
+                    serve the products to customers with support and service in
+                    a smooth path.
                   </p>
                 </div>
               </div>
