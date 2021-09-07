@@ -863,7 +863,11 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4><NavLink activeClassName="active" to="/finjo">Finjo</NavLink></h4>
+                    <h4>
+                      <NavLink activeClassName="active" to="/finjo">
+                        Finjo
+                      </NavLink>
+                    </h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
@@ -882,7 +886,11 @@ const Slider = () => {
                 </div>
                 <div className="service_style_two_content">
                   <div className="service_style_two_title pb-3">
-                    <h4><NavLink activeClassName="active" to="/eCamp">E-Camp</NavLink></h4>
+                    <h4>
+                      <NavLink activeClassName="active" to="/eCamp">
+                        E-Camp
+                      </NavLink>
+                    </h4>
                   </div>
                   <div className="service_style_two_text">
                     <p>
@@ -925,7 +933,6 @@ const Slider = () => {
                     <img src="assets/images/slider/video.png" alt="" />
                   </div>
                 </div>
-                 
               </div>
             </div>
           </div>
