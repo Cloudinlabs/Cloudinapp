@@ -2,8 +2,8 @@ import React, { Fragment, useEffect } from 'react';
 
 const OurTeam = () => {
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <Fragment>
       <div className="breatcome_area d-flex align-items-center">
@@ -17,8 +17,7 @@ const OurTeam = () => {
                 <div className="breatcome_content">
                   <ul>
                     <li>
-                      <a href="#">Home</a>{' '}
-                      <i className="fa fa-angle-right"></i>{' '}
+                      <a href="#">Home</a> <i className="fa fa-angle-right"></i>{' '}
                       <a href="#"> Pages</a>{' '}
                       <i className="fa fa-angle-right"></i>{' '}
                       <span>Team member</span>
@@ -103,15 +102,15 @@ const OurTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row">
+          <div className="row membername">
             <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
               <div className="team_style_three mb-30">
                 <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
-                    <div className="team_style_three_thumb_inner">
+                  {/*<div className="team_style_three-thumb">
+                     <div className="team_style_three_thumb_inner">
                       <img src="assets/images/team1.jpg" alt="" />
-                    </div>
-                  </div>
+                    </div> 
+                  </div>*/}
                   <div className="team_style_three_content">
                     <div className="team_style_three_title">
                       <h4>Sakthi Ramasamy</h4>
@@ -140,11 +139,11 @@ const OurTeam = () => {
             <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
               <div className="team_style_three mb-30">
                 <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
+                  {/* <div className="team_style_three-thumb">
                     <div className="team_style_three_thumb_inner">
                       <img src="assets/images/team2.jpg" alt="" />
                     </div>
-                  </div>
+                  </div> */}
                   <div className="team_style_three_content">
                     <div className="team_style_three_title">
                       <h4>Vijayakumar</h4>
@@ -173,17 +172,17 @@ const OurTeam = () => {
             <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
               <div className="team_style_three mb-30">
                 <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
+                  {/* <div className="team_style_three-thumb">
                     <div className="team_style_three_thumb_inner">
                       <img src="assets/images/team3.jpg" alt="" />
                     </div>
-                  </div>
+                  </div> */}
                   <div className="team_style_three_content">
                     <div className="team_style_three_title">
                       <h4>Vinodh Keshav</h4>
                     </div>
                     <div className="team_style_three_sub_title">
-                      <span>Auckland Operations Head</span>
+                      <span>Auckland Head</span>
                     </div>
                     <div className="team_style_three_icon">
                       <a href="#">
@@ -206,17 +205,17 @@ const OurTeam = () => {
             <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
               <div className="team_style_three mb-30">
                 <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
+                  {/* <div className="team_style_three-thumb">
                     <div className="team_style_three_thumb_inner">
                       <img src="assets/images/team4.jpg" alt="" />
                     </div>
-                  </div>
+                  </div> */}
                   <div className="team_style_three_content">
                     <div className="team_style_three_title">
                       <h4>Balasubramaniyan</h4>
                     </div>
                     <div className="team_style_three_sub_title">
-                      <span>US operations Head</span>
+                      <span>US Head</span>
                     </div>
                     <div className="team_style_three_icon">
                       <a href="#">
@@ -236,75 +235,9 @@ const OurTeam = () => {
                 </div>
               </div>
             </div>
+          
           </div>
-          <div className="row mt-80 justify-content-md-center">
-            <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-              <div className="team_style_three mb-30">
-                <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
-                    <div className="team_style_three_thumb_inner">
-                      <img src="assets/images/team1.jpg" alt="" />
-                    </div>
-                  </div>
-                  <div className="team_style_three_content">
-                    <div className="team_style_three_title">
-                      <h4>Baskar Thanigaimani</h4>
-                    </div>
-                    <div className="team_style_three_sub_title">
-                      <span>Bangalore Operations Head</span>
-                    </div>
-                    <div className="team_style_three_icon">
-                      <a href="#">
-                        <i className="fa fa-facebook"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-linkedin"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-instagram"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6 col-sm-12 col-xs-12">
-              <div className="team_style_three mb-30">
-                <div className="team_style_three_inner">
-                  <div className="team_style_three-thumb">
-                    <div className="team_style_three_thumb_inner">
-                      <img src="assets/images/team2.jpg" alt="" />
-                    </div>
-                  </div>
-                  <div className="team_style_three_content">
-                    <div className="team_style_three_title">
-                      <h4>Raj Sekar</h4>
-                    </div>
-                    <div className="team_style_three_sub_title">
-                      <span>Advisor</span>
-                    </div>
-                    <div className="team_style_three_icon">
-                      <a href="#">
-                        <i className="fa fa-facebook"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-linkedin"></i>
-                      </a>
-                      <a href="#">
-                        <i className="fa fa-instagram"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
           <div className="row mt-80">
             <div className="col-lg-12 col-md-6 col-sm-12">

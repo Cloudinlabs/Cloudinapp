@@ -251,6 +251,13 @@ element.style {
     color: #fff;
 }
 
+.membername .team_style_three_title h4 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+}
+
 @media only screen and (min-width: 1024px) {
     .techno_menu.mobile-nav {
         transform: translate(0, 0) !important;
