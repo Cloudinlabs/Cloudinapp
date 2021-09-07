@@ -930,7 +930,7 @@ const Slider = () => {
               <div className="col-lg-12">
                 <div className="single_video">
                   <div className="single_video_thumb">
-                    <img src="assets/images/slider/video.png" alt="" />
+                    <img src="assets/images/slider/video.png" width="100%" alt="" />
                   </div>
                 </div>
               </div>
