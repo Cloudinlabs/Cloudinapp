@@ -37,17 +37,17 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          <a href="#">
+                          {/* <a href="#">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
-                          <a className="active" href="#">
+                          </a> */}
+                          <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
+                          </NavLink>
                         </div>
                       </div>
-                      <div className="slider-video">
+                      {/* <div className="slider-video">
                         <div className="video-icon">
                           <a
                             className="video-vemo-icon venobox vbox-item"
@@ -58,7 +58,7 @@ const Slider = () => {
                             <i className="fa fa-play"></i>
                           </a>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -88,17 +88,17 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          <a href="#">
+                          {/* <a href="#">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
-                          <a className="active" href="#">
+                          </a> */}
+                          <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
+                          </NavLink>
                         </div>
                       </div>
-                      <div className="slider-video">
+                      {/* <div className="slider-video">
                         <div className="video-icon">
                           <a
                             className="video-vemo-icon venobox vbox-item"
@@ -109,7 +109,7 @@ const Slider = () => {
                             <i className="fa fa-play"></i>
                           </a>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -139,17 +139,17 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          <a href="#">
+                          {/* <a href="#">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
-                          <a className="active" href="#">
+                          </a> */}
+                          <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a>
+                          </NavLink>
                         </div>
                       </div>
-                      <div className="slider-video">
+                      {/* <div className="slider-video">
                         <div className="video-icon">
                           <a
                             className="video-vemo-icon venobox vbox-item"
@@ -160,7 +160,7 @@ const Slider = () => {
                             <i className="fa fa-play"></i>
                           </a>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
