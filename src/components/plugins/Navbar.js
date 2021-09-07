@@ -148,11 +148,11 @@ const Navbar = () => {
                                 Our team
                               </NavLink>
                             </li>
-                            <li>
+                            {/* <li>
                               <NavLink activeClassName="active" to="/investor">
                                 Investor
                               </NavLink>
-                            </li>
+                            </li> */}
                             {/* <li>
                           <NavLink activeClassName="active" to="/portfolio">
                             Portfolio
