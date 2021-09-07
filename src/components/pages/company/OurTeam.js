@@ -334,11 +334,11 @@ const OurTeam = () => {
                     with us on this journey.
                   </p>
                 </div>
-                <div className="service_style_one_button pt-3">
+                {/* <div className="service_style_one_button pt-3">
                   <a href="#">
                     Read More <i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

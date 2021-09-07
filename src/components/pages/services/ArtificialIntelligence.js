@@ -42,7 +42,7 @@ const ArtificialIntelligence = () => {
                       implementation.
                     </p>
                   </div>
-                  <div className="slider_button pt-25 d-flex">
+                  {/* <div className="slider_button pt-25 d-flex">
                     <div className="button color_two">
                       <a
                         className="wow fadeInUp"
@@ -52,8 +52,8 @@ const ArtificialIntelligence = () => {
                         How IT Work <i className="fa fa-long-arrow-right"></i>
                       </a>
                     </div>
-                  </div>
-                  <div className="data_science_video white-color">
+                  </div> */}
+                  {/* <div className="data_science_video white-color">
                     <div
                       className="data_science_video_inner wow fadeInUp"
                       data-wow-delay="0.5s"
@@ -68,7 +68,7 @@ const ArtificialIntelligence = () => {
                         <div id="spinnerbtn"></div>
                       </a>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

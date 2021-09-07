@@ -38,14 +38,14 @@ const MLnNLP = () => {
                       the core data centre to the intelligent edge.
                     </p>
                   </div>
-                  <div className="slider_button pt-25 d-flex">
+                  {/* <div className="slider_button pt-25 d-flex">
                     <div className="button color_two">
                       <a href="#">
                         How IT Work <i className="fa fa-long-arrow-right"></i>
                       </a>
                     </div>
-                  </div>
-                  <div className="data_science_video white-color">
+                  </div> */}
+                  {/* <div className="data_science_video white-color">
                     <div className="data_science_video_inner">
                       <a
                         className="video-vemo-icon venobox vbox-item"
@@ -57,7 +57,7 @@ const MLnNLP = () => {
                         <div id="spinnerbtn"></div>
                       </a>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
