@@ -87,8 +87,8 @@ const OurTeam = () => {
                 </div>
                 <div className="section_main_title">
                   <h4>
-                    Services Needs the Technology Attention <br />
-                    We Aim to provide the Best Tech services
+                    Services needs the technology attention <br />
+                    We aim to provide the best tech services
                   </h4>
                 </div>
                 <div className="em_bar">
