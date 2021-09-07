@@ -231,9 +231,9 @@ const ArtificialIntelligence = () => {
                       experimentation
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -256,9 +256,9 @@ const ArtificialIntelligence = () => {
                       and decision making.
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -281,9 +281,9 @@ const ArtificialIntelligence = () => {
                       better decisions.
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -308,9 +308,9 @@ const ArtificialIntelligence = () => {
                       chatbots and voice-enabled interfaces
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -332,9 +332,9 @@ const ArtificialIntelligence = () => {
                       speak and write in their natural styles
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -357,9 +357,9 @@ const ArtificialIntelligence = () => {
                       recognize patterns in them.
                     </p>
                   </div>
-                  <div className="process_style_two_content_button">
+                  {/* <div className="process_style_two_content_button">
                     <a href="#">Read More</a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
