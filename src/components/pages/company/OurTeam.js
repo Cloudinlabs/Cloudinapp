@@ -109,18 +109,14 @@ const OurTeam = () => {
                     <span>Founder & CEO</span>
                   </div>
                   <div className="team_style_two_icon">
-                    <a href="#">
+                    <a href="https://www.facebook.com/Sathya7s" target="_blank">
                       <i className="fa fa-facebook"></i>
                     </a>
-                    <a href="#">
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                    <a href="#">
+                    
+                    <a href="https://www.linkedin.com/in/sakthir" target="_blank">
                       <i className="fa fa-linkedin"></i>
                     </a>
-                    <a href="#">
-                      <i className="fa fa-pinterest"></i>
-                    </a>
+                     
                   </div>
                 </div>                
               </div>

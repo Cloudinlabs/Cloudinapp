@@ -916,7 +916,7 @@ const Slider = () => {
             </div>
           </div>
         </div>
-        <div className="video_area pb-200">
+        <div className="video_area">
           <div className="container">
             <div className="row mrt-200">
               <div className="col-lg-12">
@@ -925,18 +925,7 @@ const Slider = () => {
                     <img src="assets/images/slider/video.png" alt="" />
                   </div>
                 </div>
-                <div className="single-video text-center">
-                  <div className="video-icon mrt-345">
-                    <a
-                      className="video-vemo-icon venobox vbox-item"
-                      data-vbtype="youtube"
-                      data-autoplay="true"
-                      href="#"
-                    >
-                      <i className="fa fa-play"></i>
-                    </a>
-                  </div>
-                </div>
+                 
               </div>
             </div>
           </div>
