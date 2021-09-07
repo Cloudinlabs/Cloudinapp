@@ -1183,29 +1183,7 @@ const Slider = () => {
         </div>
       </div>
 
-      <div className="call_do_action pt-85 pb-130 bg_color clientCount_bg">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="section_title white text_center mb-60 mt-3">
-                {/* <div className="phone_number mb-3">
-                  <h5> +91 90436 86520</h5>
-                </div> */}
-                <div className="section_main_title">
-                  <h1>To make requests for the</h1>
-                  <h1>further information</h1>
-                </div>
-                <div className="button three mt-40">
-                  <a href="#">
-                    Join With Now<i className="fa fa-long-arrow-right"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
+     
       <div className="counter_area">
         <div className="container">
           <div className="row cntr_bg_up nagative_margin pt-50 pb-45">
