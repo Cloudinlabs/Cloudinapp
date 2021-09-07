@@ -70,7 +70,7 @@ const OurTeam = () => {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 col-xs-6">
               <div className="team_join_thumb">
-                <img src="assets/images/team-pages.png" alt="" />
+                <img src="assets/images/team-pages.png" width="100%" alt="" />
               </div>
             </div>
           </div>
