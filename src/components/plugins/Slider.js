@@ -41,7 +41,7 @@ const Slider = () => {
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/ai" className="ml-4">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
@@ -92,7 +92,7 @@ const Slider = () => {
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/ai" className="ml-4">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
@@ -143,7 +143,7 @@ const Slider = () => {
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
-                          <NavLink activeClassName="active" to="/ai">
+                          <NavLink activeClassName="active" to="/ai" className="ml-4">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
                           </NavLink>
