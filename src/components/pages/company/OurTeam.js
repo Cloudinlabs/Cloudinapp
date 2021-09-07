@@ -51,7 +51,7 @@ const OurTeam = () => {
               </div>
               <div className="prfs_experience">
                 <div className="headingh_experience_number">
-                  <h1>7+</h1>
+                  <h1>6+</h1>
                 </div>
                 <div className="heading_experience_title">
                   <h2>Years of experience in IT Solution & Business</h2>
