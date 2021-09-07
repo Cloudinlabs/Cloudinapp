@@ -112,18 +112,41 @@ const OurTeam = () => {
                     <a href="https://www.facebook.com/Sathya7s" target="_blank">
                       <i className="fa fa-facebook"></i>
                     </a>
-                    
-                    <a href="https://www.linkedin.com/in/sakthir" target="_blank">
+
+                    <a
+                      href="https://www.linkedin.com/in/sakthir"
+                      target="_blank"
+                    >
                       <i className="fa fa-linkedin"></i>
                     </a>
-                     
                   </div>
-                </div>                
-              </div>
-              <div className="single_team_content">
-                  <h4>Sakthi Ramasamy</h4>
-                  <span>Founder & CEO</span>
                 </div>
+              </div>
+
+              <div className="single_team_content">
+                <h4>Sakthi Ramasamy</h4>
+                <span>Founder & CEO</span>
+              </div>
+            </div>
+
+            <div className="col-lg-12 pt-20 text-center">
+              <div className="choose_content">
+                <div className="choose_content_text_bold">
+                  <p>
+                    Contrary to popular belief, Lorem Ipsum is not simply and
+                    random text. It has roots in a piece of classical
+                  </p>
+                </div>
+                <div className="choose_content_text">
+                  <p>
+                    The standard chunk of Lorem Ipsum used since the 1500s is
+                    reproduced below for those interested. Sections 1.10.32 and
+                    1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are
+                    also reproduced in their exact original form, accompanied by
+                    English versions from the 1914 translation
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
