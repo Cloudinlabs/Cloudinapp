@@ -3,6 +3,17 @@ import React, { Fragment, useEffect, useRef, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
+
+  const handleScroll = () => {
+    window.scrollTo({ 
+      top: document.documentElement.scrollHeight, 
+      behavior: 'smooth'
+      /* you can also use 'auto' behaviour 
+         in place of 'smooth' */
+    });
+  }
+
+
   useEffect(() => {
     $(window).on('scroll', function () {
       var ww = document.body.clientWidth;
@@ -288,10 +299,10 @@ const Navbar = () => {
                             </li>
                           </ul>
                         </li>
-                        <li>
-                          <NavLink activeClassName="active" to="/home">
+                        <li className="cursor_pointer" onClick={handleScroll}>
+                          <a>
                             Contact us
-                          </NavLink>
+                          </a>
                         </li>
                       </ul>
                       <div className="donate-btn-header">

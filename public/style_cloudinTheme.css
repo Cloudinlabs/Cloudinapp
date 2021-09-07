@@ -266,6 +266,9 @@ element.style {
     text-align: center;
     border-bottom: 2px solid #0042A5;
 }
+.cursor_pointer{
+    cursor: pointer;
+}
 
 @media only screen and (min-width: 1024px) {
     .techno_menu.mobile-nav {
