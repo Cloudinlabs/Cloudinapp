@@ -295,7 +295,7 @@ const Navbar = () => {
                         </li>
                       </ul>
                       <div className="donate-btn-header">
-                        <a className="dtbtn">Get a quote</a>
+                        <a className="dtbtn" href="https://t.me/cloudinQ" target="_blank">Get a quote</a>
                       </div>
                     </nav>
                   </div>
