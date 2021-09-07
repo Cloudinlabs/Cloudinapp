@@ -37,10 +37,10 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          {/* <a href="#">
+                          <NavLink to="/aboutus">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a> */}
+                          </NavLink>
                           <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
@@ -88,10 +88,10 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          {/* <a href="#">
+                          <NavLink to="/aboutus">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a> */}
+                          </NavLink>
                           <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
@@ -139,10 +139,10 @@ const Slider = () => {
                       </div>
                       <div className="slider_button pt-5 d-flex">
                         <div className="button">
-                          {/* <a href="#">
+                          <NavLink to="/aboutus">
                             How IT Work{' '}
                             <i className="fa fa-long-arrow-right"></i>
-                          </a> */}
+                          </NavLink>
                           <NavLink activeClassName="active" to="/ai">
                             IT Services{' '}
                             <i className="fa fa-long-arrow-right"></i>
@@ -930,7 +930,11 @@ const Slider = () => {
               <div className="col-lg-12">
                 <div className="single_video">
                   <div className="single_video_thumb">
-                    <img src="assets/images/slider/video.png" width="100%" alt="" />
+                    <img
+                      src="assets/images/slider/video.png"
+                      width="100%"
+                      alt=""
+                    />
                   </div>
                 </div>
               </div>
@@ -1183,7 +1187,6 @@ const Slider = () => {
         </div>
       </div>
 
-     
       <div className="counter_area">
         <div className="container">
           <div className="row cntr_bg_up nagative_margin pt-50 pb-45">
