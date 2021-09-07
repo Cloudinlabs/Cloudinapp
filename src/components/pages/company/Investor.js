@@ -113,11 +113,11 @@ const Investor = () => {
                     growth and innovation .
                   </p>
                 </div>
-                <div className="feature_style_four_button">
+                {/* <div className="feature_style_four_button">
                   <a href="#">
                     Read More<i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12 col-xs-6">
@@ -137,11 +137,11 @@ const Investor = () => {
                     endless money to companies .
                   </p>
                 </div>
-                <div className="feature_style_four_button">
+                {/* <div className="feature_style_four_button">
                   <a href="#">
                     Read More<i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12 col-xs-6">
@@ -162,11 +162,11 @@ const Investor = () => {
                     industry .
                   </p>
                 </div>
-                <div className="feature_style_four_button">
+                {/* <div className="feature_style_four_button">
                   <a href="#">
                     Read More<i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -189,11 +189,11 @@ const Investor = () => {
                     strangers .
                   </p>
                 </div>
-                <div className="feature_style_four_button">
+                {/* <div className="feature_style_four_button">
                   <a href="#">
                     Read More<i className="fa fa-long-arrow-right"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
