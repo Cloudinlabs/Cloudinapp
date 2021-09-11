@@ -1,10 +1,16 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 import RecentImg1 from '../../assets/images/recent1.jpg';
 import RecentImg3 from '../../assets/images/recent3.jpg';
 
 const Footer = (props) => {
+  const [ind, setInd] = useState();
+  const [nz, setNz] = useState();
+  const [us, setUs] = useState();
+  const countryClick = (ctry) => {
+
+  }
   return (
     <Fragment>
       <div className="footer-middle pt-95 call_bg">
@@ -56,9 +62,7 @@ const Footer = (props) => {
                     >
                       <i className="fa fa-linkedin"></i>
                     </a>
-                    {/* <a href="#"> */}
-                    {/* <i className="fa fa-skype"></i> */}
-                    {/* </a> */}
+                     
                   </div>
                 </div>
               </div>
@@ -72,14 +76,14 @@ const Footer = (props) => {
                       <a href="#">TextLocal</a>
                       <br />
                       {/* <p className="color_yellow">
-                        Condimentum rhoncus, sem quam semper libero
+                         
                       </p> */}
                     </li>
                     <li>
                       <a href="#">Collect ChatBot</a>
                       <br />
                       {/* <p className="color_yellow">
-                        Condimentum rhoncus, sem quam semper libero
+                         
                       </p> */}
                     </li>
                   </ul>
