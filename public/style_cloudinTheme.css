@@ -1,1377 +1,1387 @@
 .bg_color {
-    background: #01A5A7;
+  background: #01a5a7;
 }
 
 .border_grey1 {
-    border: 1px solid #B8B8B8 !important;
+  border: 1px solid #b8b8b8 !important;
 }
 
 .color_white {
-    color: #fff;
+  color: #fff;
 }
 
 .color_yellow {
-    color: #ffb300;
+  color: #ffb300;
 }
 
 .color_pink {
-    color: #b20768 !important;
+  color: #b20768 !important;
 }
 
 .color_strip_Green {
-    color: #01a5a7 !important;
+  color: #01a5a7 !important;
 }
 
 .countries img {
-    display: inline-block;
-    margin: 0 10px 0 0;
+  display: inline-block;
+  margin: 0 10px 0 0;
 }
 
 .countries .active {
-    border-bottom: #18ced7 2px solid;
-    margin-top: 10px !important;
+  border-bottom: #18ced7 2px solid;
+  margin-top: 10px !important;
 }
 
 .border_bottom_dotted {
-    border-bottom: #fff 1px dotted;
+  border-bottom: #fff 1px dotted;
 }
 
 .bgYellow {
-    background: #FFB300 !important;
+  background: #ffb300 !important;
 }
 
 .bgDrkblue {
-    background: #030065 !important;
+  background: #030065 !important;
 }
 
 .bgDrkPink {
-    background: #B20768 !important;
+  background: #b20768 !important;
 }
 
 .bgBusiGreen {
-    background: #00A650 !important;
+  background: #00a650 !important;
 }
 
 .bgDrkGrey {
-    background: #333333 !important;
+  background: #333333 !important;
 }
 
 .bgOrange {
-    background: #E07400 !important;
+  background: #e07400 !important;
 }
 
 .dark_purple {
-    background: #5D1D7D !important;
+  background: #5d1d7d !important;
 }
 
 .bgSharPink {
-    background: #F30B52 !important;
+  background: #f30b52 !important;
 }
 
 .bgRed {
-    background: #FF3900 !important;
+  background: #ff3900 !important;
 }
 
 .section_sub_title h6 {
-    color: #01A5A7 !important;
+  color: #01a5a7 !important;
 }
 
 .em_bar_bg:before {
-    background: #B20768 !important;
+  background: #b20768 !important;
 }
 
 element.style {
-    position: fixed;
-    z-index: 2147483647;
+  position: fixed;
+  z-index: 2147483647;
 }
 
 #scrollUp {
-    background: #FFB300 !important;
+  background: #ffb300 !important;
 }
 
 .slider_text_inner h5 {
-    color: #FFB300 !important;
+  color: #ffb300 !important;
 }
 
-.owl-next i, .owl-prev i {
-    opacity: 0.1;
+.owl-next i,
+.owl-prev i {
+  opacity: 0.1;
 }
 
-.techno_menu>ul>li:hover {
-    background: #01A5A7 !important;
+.techno_menu > ul > li:hover {
+  background: #01a5a7 !important;
 }
 
-.techno_menu>ul>li:hover a {
-    color: #fff !important;
+.techno_menu > ul > li:hover a {
+  color: #fff !important;
 }
 
 .techno_menu ul .sub-menu li a {
-    color: #000 !important;
+  color: #000 !important;
 }
 
 .slider_text_inner h1 {
-    font-size: 33px !important;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
+  font-size: 33px !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
 }
 
 .minheight380px {
-    min-height: 380px !important;
+  min-height: 380px !important;
 }
 
 .techno_flipbox_back.minheight380px p {
-    color: #fff !important;
+  color: #fff !important;
 }
 
 .clr_both {
-    clear: both;
-    display: block;
+  clear: both;
+  display: block;
 }
 
 .vertical_top_it {
-    position: relative;
-    top: -25px;
+  position: relative;
+  top: -25px;
 }
 
 .vertical_top_mobilApp {
-    position: relative;
-    top: -75px;
+  position: relative;
+  top: -75px;
 }
 
 .vertical_top_webApp {
-    position: relative;
-    top: -75px;
+  position: relative;
+  top: -75px;
 }
 
 .pos_relative {
-    position: relative;
+  position: relative;
 }
 
 .pos_absolute {
-    position: absolute;
+  position: absolute;
 }
 
 .rightAlign {
-    right: 0;
+  right: 0;
 }
 
 .leftAlign {
-    left: 0;
+  left: 0;
 }
 
 .about_box_minheight {
-    min-height: 185px !important;
+  min-height: 185px !important;
 }
 
 .about_box_minheight2 {
-    min-height: 165px !important;
+  min-height: 165px !important;
 }
 
 .ai_box_minheight {
-    min-height: 235px !important;
+  min-height: 235px !important;
 }
 
 .dmkg_box_minheight {
-    min-height: 540px !important;
+  min-height: 540px !important;
 }
 
 .ai_box_minheight2 {
-    min-height: 270px !important;
+  min-height: 270px !important;
 }
 
 .blockChain_Box_minHeight {
-    min-height: 405px !important;
+  min-height: 405px !important;
 }
 
 .blockChain_Box_minHeight2 {
-    min-height: 305px !important;
+  min-height: 305px !important;
 }
 
 .aws_Box_minHeight {
-    min-height: 385px !important;
+  min-height: 385px !important;
 }
 
 .react_Box_minHeight {
-    min-height: 385px !important;
+  min-height: 385px !important;
 }
 
 .itCons_Box_minHeight {
-    min-height: 335px !important;
+  min-height: 335px !important;
 }
 
 .mobiApp_Box_minHeight {
-    min-height: 335px !important;
+  min-height: 335px !important;
 }
 
 .webApp_Box_minHeight {
-    min-height: 335px !important;
+  min-height: 335px !important;
 }
 
 .uxui_Box_minHeight {
-    min-height: 335px !important;
+  min-height: 335px !important;
 }
 
 .inventory_Box_minHeight {
-    min-height: 450px !important;
+  min-height: 450px !important;
 }
 
 .mrBusiness_Box_minHeight {
-    min-height: 450px !important;
+  min-height: 450px !important;
 }
 
 .eCamp_Box_minHeight {
-    min-height: 490px !important;
+  min-height: 490px !important;
 }
 
 .contactBox {
-    min-height: 305px !important;
+  min-height: 305px !important;
 }
 
 .invent .single_service_inner::before {
-    height: 60px;
+  height: 60px;
 }
 
 .em_bar_bg {
-    background: #f4f4f4
+  background: #f4f4f4;
 }
 
 .invent .single_service_content h4 {
-    text-align: left;
-    padding: 0 60px 0 70px;
+  text-align: left;
+  padding: 0 60px 0 70px;
 }
 
 .sticky {
-    z-index: 999;
+  z-index: 999;
 }
 
 .sticky .nav_scroll li a {
-    color: #030065;
+  color: #030065;
 }
 
 .sticky .logo_img {
-    display: none;
+  display: none;
 }
 
 .sticky .main_sticky {
-    display: block;
+  display: block;
 }
 
 .menuAlign {
-    z-index: 9999;
+  z-index: 9999;
 }
 
-.feature_style_five_text ul, .feature_style_five_text ul li {
-    list-style: none;
-    color: #616161;
+.feature_style_five_text ul,
+.feature_style_five_text ul li {
+  list-style: none;
+  color: #616161;
 }
 
-.feature_style_five:hover .feature_style_five_text ul, .feature_style_five:hover .feature_style_five_text ul li {
-    color: #fff;
+.feature_style_five:hover .feature_style_five_text ul,
+.feature_style_five:hover .feature_style_five_text ul li {
+  color: #fff;
 }
 
 .membername .team_style_three_title h4 {
-    color: #fff;
-    font-size: 16px;
-    font-weight: 700;
-    margin: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
 }
 
 .btmName .single_team_content {
-    -webkit-transition: .5s;
-    -o-transition: .5s;
-    transition: .5s;
-    background: none !important;
-    padding: 12px 20px 23px;
-    text-align: center;
-    border-bottom: 2px solid #0042A5;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  background: none !important;
+  padding: 12px 20px 23px;
+  text-align: center;
+  border-bottom: 2px solid #0042a5;
 }
 
 .cursor_pointer {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 #scrollUp {
-    bottom: 25px;
-    right: 50px;
+  bottom: 25px;
+  right: 50px;
 }
 
 .label-block label {
-    font-size: 18px !important;
+  font-size: 18px !important;
 }
 
 .text-secondary {
-    color: #fff !important;
+  color: #fff !important;
 }
 
 .error-message {
-    color: #FFB300 !important;
-    font-size: 12px;
+  color: #ffb300 !important;
+  font-size: 12px;
 }
 
 .form-control:focus {
-    border: #FFB300 !important;
-    box-shadow: 0 0 0 0.2rem #FFB300;
+  border: #ffb300 !important;
+  box-shadow: 0 0 0 0.2rem #ffb300;
 }
 
 /*icons block starts here*/
 
 .cloudServices {
-    background-image: url(/assets/images/cloudinIcons/cloudinServices.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 7px 10px;
+  background-image: url(/assets/images/cloudinIcons/cloudinServices.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 7px 10px;
 }
 
 .understandingIcon {
-    background-image: url(/assets/images/cloudinIcons/understand.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 15px 17px;
+  background-image: url(/assets/images/cloudinIcons/understand.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 15px 17px;
 }
 
 .implemetationIcon {
-    background-image: url(/assets/images/cloudinIcons/Implementation.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 17px;
+  background-image: url(/assets/images/cloudinIcons/Implementation.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 17px;
 }
 
 .exposureIcon {
-    background-image: url(/assets/images/cloudinIcons/exposure.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 18px;
+  background-image: url(/assets/images/cloudinIcons/exposure.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 18px;
 }
 
 .innovationIcon {
-    background-image: url(/assets/images/cloudinIcons/innovation.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 22px 18px;
+  background-image: url(/assets/images/cloudinIcons/innovation.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 22px 18px;
 }
 
 .aiServices {
-    background-image: url(/assets/images/cloudinIcons/ai.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 17px 20px;
+  background-image: url(/assets/images/cloudinIcons/ai.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 17px 20px;
 }
 
 .mlServices {
-    background-image: url(/assets/images/cloudinIcons/ml.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 17px 20px;
+  background-image: url(/assets/images/cloudinIcons/ml.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 17px 20px;
 }
 
 .blockchainServices {
-    background-image: url(/assets/images/cloudinIcons/blockchain.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 17px 20px;
+  background-image: url(/assets/images/cloudinIcons/blockchain.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 17px 20px;
 }
 
 .chatbotServices {
-    background-image: url(/assets/images/cloudinIcons/chatbot.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 12px 20px;
+  background-image: url(/assets/images/cloudinIcons/chatbot.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 12px 20px;
 }
 
 .cloudServices2 {
-    background-image: url(/assets/images/cloudinIcons/cloudServices.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/cloudServices.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .reactServices {
-    background-image: url(/assets/images/cloudinIcons/react.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/react.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .itServices {
-    background-image: url(/assets/images/cloudinIcons/it_services.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/it_services.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .mobileAppServices {
-    background-image: url(/assets/images/cloudinIcons/mobileApp.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/mobileApp.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .webAppServices {
-    background-image: url(/assets/images/cloudinIcons/webApp.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 12px 20px;
+  background-image: url(/assets/images/cloudinIcons/webApp.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 12px 20px;
 }
 
 .uxuiServices {
-    background-image: url(/assets/images/cloudinIcons/uxui.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/uxui.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .virtualServices {
-    background-image: url(/assets/images/cloudinIcons/virtualAssist.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 14px 16px;
+  background-image: url(/assets/images/cloudinIcons/virtualAssist.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 14px 16px;
 }
 
 .digitalMarketing {
-    background-image: url(/assets/images/cloudinIcons/digital_marketing.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 16px 20px;
+  background-image: url(/assets/images/cloudinIcons/digital_marketing.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 16px 20px;
 }
 
 .holistic {
-    background-image: url(/assets/images/cloudinIcons/holistic.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 15px 17px;
+  background-image: url(/assets/images/cloudinIcons/holistic.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 15px 17px;
 }
 
 .cocreate {
-    background-image: url(/assets/images/cloudinIcons/cocreate.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 15px 17px;
+  background-image: url(/assets/images/cloudinIcons/cocreate.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 15px 17px;
 }
 
 .highVelocity {
-    background-image: url(/assets/images/cloudinIcons/highVelocity.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 15px 17px;
+  background-image: url(/assets/images/cloudinIcons/highVelocity.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 15px 17px;
 }
 
 .quality {
-    background-image: url(/assets/images/cloudinIcons/quality.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 15px 17px;
+  background-image: url(/assets/images/cloudinIcons/quality.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 15px 17px;
 }
 
 /* products pages css */
 
 .feature_style_eight_content .mrBusAdminImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/admin.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/admin.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .mrBusAdminImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/adminHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/adminHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .mrBusEmpImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/employee.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 41px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/employee.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 41px 36px;
 }
 
 .feature_style_eight_content:hover .mrBusEmpImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/employeeHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 41px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/employeeHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 41px 36px;
 }
 
 .feature_style_eight_content .mrBusMapImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/mapping.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 33px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/mapping.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 33px 36px;
 }
 
 .feature_style_eight_content:hover .mrBusMapImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/mappingHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 33px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/mappingHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 33px 36px;
 }
 
 .feature_style_eight_content .mrBusNotiImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/noti.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/noti.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .mrBusNotiImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/notiHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/notiHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .mrBusTaskImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/taskView.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/taskView.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .mrBusTaskImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/taskViewHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/taskViewHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .mrBusPrdImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/prd.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 31px 33px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/prd.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 31px 33px;
 }
 
 .feature_style_eight_content:hover .mrBusPrdImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/prdHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 31px 33px;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/prdHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 31px 33px;
 }
 
 .single_service_inner .realTimeImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/realTimeHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/realTimeHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .realTimeImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/realTime.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/realTime.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .prioritizeImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/prioritizeHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/prioritizeHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .prioritizeImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/prioritize.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/prioritize.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .measureImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/measureHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/measureHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .measureImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/measure.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/measure.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .enableImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/enableHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/enableHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .enableImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/enable.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/enable.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .balanceImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/balanceHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/balanceHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .balanceImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/balance.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/balance.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .transformImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/transformHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/transformHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .transformImg {
-    background-image: url(/assets/images/cloudinIcons/mrBusiness/transform.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/mrBusiness/transform.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .feature_style_eight_content .invenOrderMgtImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/orderMgt.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/orderMgt.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .invenOrderMgtImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/orderMgtHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/orderMgtHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .invenwareHouseImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/warehouse.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/warehouse.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .invenwareHouseImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/warehouseHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/warehouseHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .invenbarcodeImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/barcode.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/barcode.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .invenbarcodeImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/barcodeHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/barcodeHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .inventoryTrack1Img {
-    background-image: url(/assets/images/cloudinIcons/inventory/inventoryTrack1.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/inventoryTrack1.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .inventoryTrack1Img {
-    background-image: url(/assets/images/cloudinIcons/inventory/inventoryTrack1Hover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/inventoryTrack1Hover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .invenReportImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/report.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/report.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .invenReportImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/reportHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/inventory/reportHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .single_service_inner:hover .autoManageImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/autoManage.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/autoManage.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .autoManageImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/autoManageHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/autoManageHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .centerInventoryImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/centerInventory.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/centerInventory.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .centerInventoryImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/centerInventoryHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/centerInventoryHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .trackPrdImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/trackPrdt.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/trackPrdt.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .trackPrdImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/trackPrdtHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/trackPrdtHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .dCustomersImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/delightCustomers.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/delightCustomers.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .dCustomersImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/delightCustomersHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/delightCustomersHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .simplyfyImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/simplify.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/simplify.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .simplyfyImg {
-    background-image: url(/assets/images/cloudinIcons/inventory/simplifyHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/inventory/simplifyHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .feature_style_eight_content .partyImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/party.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/party.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .partyImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/partyHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/partyHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .debtImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/debt.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/debt.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .debtImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/debtHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/debtHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .ledgerImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/ledger.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/ledger.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .ledgerImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/ledgerHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/ledgerHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .daybookImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/daybook.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/daybook.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .daybookImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/daybookHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/daybookHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .loanImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/loan.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/loan.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .loanImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/loanHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/loanHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content .loanSummaryImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/loanSummary.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/loanSummary.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .feature_style_eight_content:hover .loanSummaryImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/loanSummaryHover.svg);
-    height: 100%;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 36px 36px;
+  background-image: url(/assets/images/cloudinIcons/finjo/loanSummaryHover.svg);
+  height: 100%;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 36px 36px;
 }
 
 .single_service_inner:hover .visibilityImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/visibilityHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/visibilityHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .visibilityImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/visibility.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/visibility.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .agileImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/agile.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/agile.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .agileImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/agileHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/agileHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .paperlessImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/paperless.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/paperless.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .paperlessImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/paperlessHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/paperlessHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .acctingImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/accting.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/accting.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .acctingImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/acctingHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/acctingHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .improvedImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/improved.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/improved.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .improvedImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/improvedHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/improvedHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .simplyfyImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/simplify.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/simplify.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .simplyfyImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/simplifyHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/simplifyHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .reducedImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/reduced.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/reduced.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .reducedImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/reducedHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/reducedHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .efficientImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/efficient.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/efficient.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .efficientImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/efficientHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/efficientHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .rcptImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/rcpt.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/rcpt.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .rcptImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/rcptHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/rcptHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner:hover .reducedCostImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/reducedCost.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/reducedCost.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .single_service_inner .reducedCostImg {
-    background-image: url(/assets/images/cloudinIcons/finjo/reducedCostHover.svg);
-    height: 43px;
-    width: 43px;
-    display: block;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+  background-image: url(/assets/images/cloudinIcons/finjo/reducedCostHover.svg);
+  height: 43px;
+  width: 43px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
 }
 
 .alterClass {
-    float: left;
-    margin-left: 8px !important;
-    margin-right: 16px !important;
-    margin-top: -10px !important;
+  float: left;
+  margin-left: 8px !important;
+  margin-right: 16px !important;
+  margin-top: -10px !important;
 }
 
 /* products pages css */
 
 .width_hundred {
-    width: 100%;
+  width: 100%;
 }
 
 ul.joblist {
-    padding: 0px 0 0 0;
-    margin: 0 0 0 0;
-    list-style: none;
+  padding: 0px 0 0 0;
+  margin: 0 0 0 0;
+  list-style: none;
 }
 
 ul.joblist li {
-    padding: 0 0 0 0;
-    margin: 0 0 0 0;
-    list-style: circle;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  list-style: circle;
 }
 
 ul.joblist2 {
-    padding: 0px 0 0 0;
-    margin: 0 0 0 0;
-    list-style: none;
+  padding: 0px 0 0 0;
+  margin: 0 0 0 0;
+  list-style: none;
 }
 
 ul.joblist2 li {
-    padding: 0 0 0 0;
-    margin: 0 0 10px 0px;
-    list-style: none;
-    border-bottom: 2px dotted #cbcbcb;
+  padding: 0 0 0 0;
+  margin: 0 0 10px 0px;
+  list-style: none;
+  border-bottom: 2px dotted #cbcbcb;
 }
 
 .greenFnt {
-    color: #00a650 !important;
+  color: #00a650 !important;
 }
 
 .banner_text_bg1 {
-    padding: 0px 0 10px 10px;
-    margin-top: 60px !important;
+  padding: 0px 0 10px 10px;
+  margin-top: 60px !important;
 }
 
 .banner_text_bg1 span {
-    font-size: 20px;
-    color: #000 !important;
+  font-size: 20px;
+  color: #000 !important;
 }
 
 img.mainbannerAlignImg {
-    width: 100%;
-    display: inline-block !important;
-    margin: 50px 0 50px 0;
+  width: 100%;
+  display: inline-block !important;
+  margin: 50px 0 50px 0;
 }
 
 img.mainbannerAlignImg2 {
-    width: 90%;
-    display: inline-block !important;
-    margin: 0px 0 0px 0;
+  width: 90%;
+  display: inline-block !important;
+  margin: 0px 0 0px 0;
 }
 
 .display_block {
-    display: block;
+  display: block;
 }
 
 .display_inlineblock {
-    display: inline-block;
+  display: inline-block;
 }
 
 .flag_width {
-    width: 40px;
+  width: 40px;
 }
 
 .cursor_hand {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 form label {
-    color: #232323 !important;
+  color: #232323 !important;
+}
+
+.submittedMsg {
+  color: #25b900 !important;
 }
 
 /*icons block ends here*/
 
 @media only screen and (min-width: 1024px) {
-    .techno_menu.mobile-nav {
-        transform: translate(0, 0) !important;
-    }
+  .techno_menu.mobile-nav {
+    transform: translate(0, 0) !important;
+  }
 }
 
 @media only screen and (max-width: 1023px) {
-    .slider_text_inner {
-        margin-top: 75px;
-    }
+  .slider_text_inner {
+    margin-top: 75px;
+  }
 
-    .no-js .owl-carousel, .owl-carousel.owl-loaded, .banner_area {
-        display: block !important;
-        clear: both;
-    }
+  .no-js .owl-carousel,
+  .owl-carousel.owl-loaded,
+  .banner_area {
+    display: block !important;
+    clear: both;
+  }
 
-    .breatcome_area {
-        display: none !important;
-    }
+  .breatcome_area {
+    display: none !important;
+  }
 
-    .mean-container .mean-bar::before {
-        color: #fff;
-        content: url('assets/images/logo2x.png');
-        font-size: 22px;
-        font-weight: 800;
-        left: 10px;
-        position: absolute;
-        top: 0px;
-        height: 60%;
-    }
+  .mean-container .mean-bar::before {
+    color: #fff;
+    content: url('assets/images/logo2x.png');
+    font-size: 22px;
+    font-weight: 800;
+    left: 10px;
+    position: absolute;
+    top: 0px;
+    height: 60%;
+  }
 
-    .mean-container .mean-bar {
-        background: #00247e !important;
-        float: left;
-        min-height: 60px;
-        padding: 4px 0 0;
-        position: relative;
-        width: 100%;
-        z-index: 999999;
-    }
+  .mean-container .mean-bar {
+    background: #00247e !important;
+    float: left;
+    min-height: 60px;
+    padding: 4px 0 0;
+    position: relative;
+    width: 100%;
+    z-index: 999999;
+  }
 
-    /*Mobile menu bar */
-    .line {
-        width: 35px;
-        height: 3px;
-        margin: 7px 15px;
-        background-color: #00247e;
-    }
+  /*Mobile menu bar */
+  .line {
+    width: 35px;
+    height: 3px;
+    margin: 7px 15px;
+    background-color: #00247e;
+  }
 
-    .sticky .line {
-        background-color: #fff;
-    }
+  .sticky .line {
+    background-color: #fff;
+  }
 
-    .menu-toggle:hover {
-        cursor: pointer;
-    }
+  .menu-toggle:hover {
+    cursor: pointer;
+  }
 
-    .mobile-nav {
-        margin: 39px 0 0 0;
-    }
+  .mobile-nav {
+    margin: 39px 0 0 0;
+  }
 
-    .mobile-nav ul {
-        padding: 0;
-        margin: 0;
-        list-style-type: none;
-        width: 100%;
-    }
+  .mobile-nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+  }
 
-    /* MOBILE ONE */
-    .mobile-wrapper {
-        width: 100%;
-        margin: 0 auto;
-        text-align: left;
-        position: relative;
-        left: -15px;
-        top: 20px;
-    }
+  /* MOBILE ONE */
+  .mobile-wrapper {
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+    left: -15px;
+    top: 20px;
+  }
 
-    .mobile {
-        max-width: 100%;
-        width: 80%;
-        height: 100%;
-        overflow: hidden;
-        position: relative;
-        display: inline-block;
-    }
+  .mobile {
+    max-width: 100%;
+    width: 80%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+  }
 
-    .mobile-one {
-        /* background: #44cba0;
+  .mobile-one {
+    /* background: #44cba0;
         background: -webkit-linear-gradient(#44cba0, #44bfc6);
         background: -o-linear-gradient(#44cba0, #44bfc6);
         background: -moz-linear-gradient(#44cba0, #44bfc6);
         background: linear-gradient(#44cba0, #44bfc6); */
-    }
+  }
 
-    .mobile-one .mobile-nav {
-        background-color: #FFB300;
-        max-width: 100%;
-        width: 70%;
-        height: 100%;
-        transform: translate(-100%, 0);
-        -webkit-transition: all 0.2s ease-in-out;
-        -o-transition: all 0.2s ease-in-out;
-        transition: all 0.2s ease-in-out;
-    }
+  .mobile-one .mobile-nav {
+    background-color: #ffb300;
+    max-width: 100%;
+    width: 70%;
+    height: 100%;
+    transform: translate(-100%, 0);
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
 
-    .mobile-nav h2 {
-        padding: 25px 20px;
-    }
+  .mobile-nav h2 {
+    padding: 25px 20px;
+  }
 
-    .mobile-one .mobile-nav li {
-        color: #989AA4;
-        display: block;
-        padding: 1px 0px;
-        position: relative;
-    }
+  .mobile-one .mobile-nav li {
+    color: #989aa4;
+    display: block;
+    padding: 1px 0px;
+    position: relative;
+  }
 
-    .mobile-one .mobile-nav li ul, .mobile-one .mobile-nav li ul li {
-        width: 100%;
-    }
+  .mobile-one .mobile-nav li ul,
+  .mobile-one .mobile-nav li ul li {
+    width: 100%;
+  }
 
-    .mobile-one .mobile-nav li a:hover {
-        /* background-color: #23252B; */
-        color: #fff;
-        /* border-left: 3px solid #44bfc6; */
-        text-align: left;
-    }
+  .mobile-one .mobile-nav li a:hover {
+    /* background-color: #23252B; */
+    color: #fff;
+    /* border-left: 3px solid #44bfc6; */
+    text-align: left;
+  }
 
-    .menuAlign {
-        position: absolute;
-        left: 0;
-        top: 0;
-        z-index: 999;
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
+  .menuAlign {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
 
-    .logoAlign {
-        margin: 0 0 0 0px;
-    }
+  .logoAlign {
+    margin: 0 0 0 0px;
+  }
 
-    .sticky {
-        z-index: 999;
-    }
+  .sticky {
+    z-index: 999;
+  }
 
-    .techno_menu ul {
-        overflow: auto !important;
-    }
+  .techno_menu ul {
+    overflow: auto !important;
+  }
 
-    .logo {
-        margin: 0 auto;
-        width: 50%;
-    }
+  .logo {
+    margin: 0 auto;
+    width: 50%;
+  }
 }

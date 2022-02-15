@@ -541,7 +541,7 @@ const ContactUs = (props) => {
                               </div>
                             </div>
                             {submitConfirm && (
-                              <h4 className="text-secondary">
+                              <h4 className="text-secondary submittedMsg">
                                 Form submitted successfully!...
                               </h4>
                             )}
